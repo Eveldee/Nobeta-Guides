@@ -3,6 +3,7 @@
         "autosplitter",
         "cutscene",
         "cutscenes",
+        "headshot",
         "headshots",
         "hitbox",
         "leaderboard",
@@ -13,6 +14,7 @@
         "speedrun",
         "speedrunning",
         "Speedruns",
+        "timesave",
         "weakpoint"
     ]
 }
