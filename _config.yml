@@ -1,6 +1,8 @@
 title: ''
 description: A collection of Little Witch Nobeta guides
 
+markdown: GFM
+
 plugins:
   - jekyll-relative-links
 relative_links:
