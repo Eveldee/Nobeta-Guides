@@ -261,6 +261,54 @@ Knowing when to charge and when to shoot directly is key to optimizing this figh
 
 ### [Monica](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=800)
 
+This fight has the particularity of being always the same in the sense that Monica will always do the same attacks in the same order. The only thing that can happen is that if you do not do enough damage after the first cycle, she will repeat the same cycle instead of doing the second one, which usually should not happen once you know how to damage her efficiently. If done correctly, Monica should always die when exploding the second sphere she charges.
+
+The main point of this fight is to burn through your mana as much as possible since countering any of Monica's attack will recover a lot of mana. You can use either Fire or Ice magic (always in the head) to achieve this, I personally prefer to use Fire since it is either to be consistent with it (you can count the number of non-charged attacks you have to do). Always charge an attack before countering and use non-charged attacks between Monica's attack.
+
+So how is it possible to save time in this fight since she should always die at the same attack and the fight has no rng? It will depend on how long you wait before exploding her two charged spheres, indeed, the damage increases the more you wait. One thing to know is that the second sphere is charging way faster than the first one, so you should always wait for the second one to be fully charged, which will deal 3600 damages. I always try to wait for at least 2000 damages on the first sphere, which should be enough to kill her on the second one directly if the rest of the fight is done correctly. This number will depend on how you do the fight, it may be more or less, find a value you are confortable with.
+
+Here is a rundown of how I do this fight know that you know the mechanics behind it.
+
+Start of the fight:
+- Drop a purple crystal on the ground directly after the cutscene
+- Charge a Fire attack using a purple crystal, use a second purple crystal before shooting
+- Shoot the charged Fire attack in the lava, this will hit Monica
+- Charge a second Fire attack with the mana orbs from the previous purple crystal
+- Shoot the second charged Fire attack at Monica
+
+First cycle:
+- Start spamming non-charged Fire attacks on cd
+- Use your mana crystal whenever you can't use Fire anymore
+- Charge fire, counter her first attack, cancel by dodging with a back hop
+- Continue to shoot at her with non-charged Fire attacks
+- Optionally use non-charged Ice attack to squeeze the last remaining bits of mana before her next attack
+- Charge Fire, counter, cancel by dashing forward, shoot the charged attack
+- Do three non-charged Fire attacks, swap to Ice
+- Shoot at the sphere using non-charged Ice attacks with a small delay between each attack, do not hold the shoot button.
+- Adjust the delay to get the amount of damage you want (I try to get at least 2000 damages here)
+
+Second cycle:
+- Charge Fire, shoot it at her legs (her body is immune during the recovering animation!)
+- Shoot three times non-charged Fire attacks
+- Bait her attack by going to the right of the arena
+- Start running to the left after she throws the first projectiles while circling backwards
+- Charge Fire, shoot it at her
+- Move to the back of the arena to be able to counter he next attack consistently (the projectiles may pass above you otherwise if you're too close to Monica)
+- Charge Fire, counter the projectiles
+- Dash forward to cancel the counter animation and shoot the charged Fire at Monica
+
+Second sphere:
+- Shoot non-charged Fire attack, swap to Ice and shoot around 5 projectiles
+- Swap back to Fire, shoot one non-charged attack
+- Finally swap to Ice again to destroy the sphere, killing Monica
+- If Monica is not dead after the sphere explode, use the mana orbs that just spawned to end the fight
+
+> [!TIP]
+>
+> The last part of the fight is using a technique that I named "quick-swapping", it exploits the fact that the game use an independent timer for each magic, meaning that while you are waiting for the Fire cooldown, you can use another magic like Ice. Quick-swapping can be hard to execute and is nearly impossible to do on a controller without using external hardware _(Robert_Ordis is using foot pedals for that)_, so instead you can just shoot non-charged Fire attacks twice and then switch to Ice to break the orb. It is a bit slower but way easier to perform.
+
+After killing Monica, skip the cutscene and follow the path to the teleporter, then follow the cat to Dark Tunnel (if you're fast enough you can pass the cat and run in front of him!).
+
 ## Dark Tunnel
 
 ## Spirit Realm
