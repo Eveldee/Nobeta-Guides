@@ -27,6 +27,11 @@
   - [Bear](#bear)
   - [Monica](#monica)
 - [Dark Tunnel](#dark-tunnel)
+  - [Hat Skip/Recovery](#hat-skiprecovery)
+  - [Thunder Magic](#thunder-magic)
+  - [Dawnruin Castle](#dawnruin-castle)
+  - [Vanessa Start](#vanessa-start)
+  - [Vanessa](#vanessa)
 - [Spirit Realm](#spirit-realm)
 - [Abyss](#abyss)
 - [Livesplit and record setup](#livesplit-and-record-setup)
@@ -310,6 +315,76 @@ Second sphere:
 After killing Monica, skip the cutscene and follow the path to the teleporter, then follow the cat to Dark Tunnel (if you're fast enough you can pass the cat and run in front of him!).
 
 ## Dark Tunnel
+
+No more lava! But now, as the name implies, this level is quite dark and it's quite easy to get lost.
+
+### [Hat Skip/Recovery](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=942)
+
+Dark Tunnel starts with one of the hardest platforming section in the game, the **Hat Skip**. I will explain how to perform it but you may want to train this later on, once you get better at the platforming sections. If you don't know yet how to do the Hat Skip, you can [use the safe route](https://www.youtube.com/watch?v=WStaMnVWT2U&t=989s) instead _(taking the absorption book is not recommended)_.
+
+So what about the Hat Skip? Start by triggering the cutscene by going towards the statue and then skip it.
+
+Turn around, start running until you're able to jump onto the first stone pillar at the intersection. From there jump on the scaffolding and then circle around on the left to jump onto the first stone ledge on the wall on the right. Single jump onto the next ledge in front of you.
+
+From this you need to double jump into the stone wall but the movement is really precise and you will be half stuck not done correctly. To land correctly onto the stone wall, you need to land in the center of the wall on the left side. If you jump too far or too much on the right you won't be able to do the next jump directly, you'll first have to "unstuck" Nobeta by moving back a little and then doing double jumps to land on the correct position.
+
+Once you're on the wall and positioned correctly, double jump onto the stone pillar on the right, try to jump and wait a bit before going right directly or you may also get stuck. From there jump onto the non-damaged wall and start recovering your stamina. Stay to the beginning of this wall because you will need to get enough momentum for the next part.
+
+Here you have two choices, the first one is to jump on the stone ledges on the building on the left using a double jump extension. You will need to jump at the last moment to reach the first ledge, the rest is quite easy once you reach the first ledge. The second method is to use the stone ledge in front of you to then jump to the hat directly from there, which is a bit harder but also saves a bit of time (~2 sec). I like to call this second method the Hat Skip Skip to differentiate the two. You can find a video example of each method below.
+
+> [Hat Skip](https://www.youtube.com/watch?v=_unusw_wgaA&t=981s)
+
+> [Hat Skip Skip](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=950s)
+
+### [Thunder Magic](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=974)
+
+> [!TIP]
+>
+> This section use multiple techniques to redirect Nobeta's velocity while in the air to optimize the movements. This is explained in details in the [Movements Guide video](https://www.youtube.com/watch?v=3ewwr3Cm8EU&t=153s).
+
+Now we need to get Thunder magic. After skipping the hat recovery cutscene, start running but do not jump off the platform because there isn't enough space to build momentum. Instead let yourself fall down and use your second jump while in the air after a bit of time. Go to the cat to trigger a cutscene, skip it.
+
+Run towards the light sphere, interact with it to pick it up, you can cancel the pickup animation by rolling on the right after a small delay when Nobeta's arms are "in a V" and you see light particles spawning. Jump to the left of the stairs, use the aim tech to redirect your velocity towards the next sphere pedestal and do one aerial melee attack before touching the ground to avoid the recovery animation. Aim at it while getting as close to it as possible to destroy it (if you are too far from it, it will take more time to destroy the sphere).
+
+Turn around and start running by following the path on the left. Jump down using a single jump extension and passing below the arch. Use your second jump after passing the arch to redirect your velocity towards the stairs. Go below the platform to the left and follow the path until you find another set of stairs. Jump from there to reach the next stairs in front and then Pray to the statue on the left.
+
+At this statue, take 5 purple crystals and use the rest of your souls to upgrade Intelligence. Turn around and go back to where you came. Instead of going down the stairs, jump on the left, aim while in the air to redirect you velocity, and then redirect another time using the second jump, doing in total a smooth 180°.
+
+Now you need to climb up to get Thunder, there are two possibilities. Either jump on the platform and follow the stairs until you reach the top to then jump towards thunder. Or, jump on the stairs and then reach the stone ledge in front from there, jump on the right on the small arch and then jump on the platform where the chest containing Thunder is. This second method is way harder to perform and is a minimal time save (~1.2 sec), only use it if you feel confident enough. After picking Thunder, open the pause menu and Return to Statue.
+
+### [Dawnruin Castle](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=974)
+
+Now that we have Thunder magic, the next step is to reach Dawnruin castle. After the loading screen, roll to stand up directly and follow the path until you reach the stairs. From there, use a purple crystal, shoot at the stone barrier crystal directly in front of you, then charged Thunder. Go down the stairs, aim your charged Thunder attack at the stone crystal on the right and then move towards the third stone crystal on the left. Jump, do two aerial melee attacks and then cast your charged Thunder.
+
+While still in the air, prepare to run towards the next section. Continue past the big blue mana crystal by going on the left to dodge the sniper shot aimed at you. Stop running when you reach the crystal and then kill the blue enemy that just shot at you using a non-charged Thunder attack at his head (you may not have enough damage to kill him if you miss the headshot). Continue walking and pay attention to which enemy sniper targets you next, the first one to target you is the first one that will go out of his hiding spot. Prepare to headshot the first sniper that will show up, kill him and then start running again to the right while dodging the other shot. Jump on the left of the corner stone ledge of the platform on the right and then jump towards the next part from there using a double jump extension.
+
+> [!NOTE]
+>
+> Missing any enemy here is not a run killer but you will have to learn how to kill Nonota without Intelligence 22 if you miss too many enemies.
+
+Continue to run until the stairs, from there you can jump onto an arch on the right to climb the next stairs faster. Go up the stairs until you're close to the top, turn around and jump on the platform in front. Walk to recover some stamina. During this time, you can kill the sniper in front of you, continue to walk a bit and then kill another sniper on the right (he will do repeated movements from left to right in the same spot). When you have recovered your stamina, go back to running towards the last part. Jump over the trap pressure plate after the circular room, and continue upstairs. If a sniper aims at you there, sidestep to dodge. Try to optimize your stamina to reach the cutscene before running out of it, bonus point if you can trigger the cutscene using the trip animation.
+
+Skip the triple cutscene.
+
+### [Vanessa Start](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1142)
+
+After the cutscenes, run past the statue, go up the stairs and follow the corridor on the left. Run until you're in melee range of the first sniper in the room, headshot him. Run towards the stairs on the right, shoot the sniper on the right while running and stop at the stair landing. Go up the stairs while walking to recover your stamina, then jump to the left after reaching around 70% of stamina. Run towards the next stairs go up while sidestepping to dodge the different attacks that may come to you. Run towards Vanessa to trigger a cutscene.
+
+### [Vanessa](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1194)
+
+To perform the optimal strategy of this fight, you will need to learn how to recognize when Vanessa stops dashing and is going to attack. This fight is quite easy and has no randomness if you know how to recognize this pattern. The fight goes as follow:
+- Shoot once at her using a non-charged Thunder attack to cancel her jump
+- Swap to Ice, break all the jars on the left side as fast as possible
+- Charge Thunder, cast it at Vanessa once directly as she should be already attacking
+- Go away from her, break the jars on the right side
+- Charge Thunder, cast it at her again and make sure not stay too close to her
+- Use a purple crystal, charge Thunder and use another purple crystal
+- Wait for her to stop dashing, cast Thunder at her, charge and cast another Thunder
+- Get away from her and repeat: purple, charge, purple, cast, charge, cast
+
+Even if it seems difficult at first, you can always cast thunder just before she's attacking if you're fast enough, even when she's doing the spin attack which is her fastest attack. [Here is a good example of doing it](https://www.youtube.com/watch?v=9vCcmfOvgX8&t=1244s).
+
+Skip the cutscene after killing Vanessa to go to the next level, Spirit Realm.
 
 ## Spirit Realm
 
