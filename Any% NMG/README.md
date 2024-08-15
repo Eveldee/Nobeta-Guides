@@ -33,6 +33,11 @@
   - [Vanessa Start](#vanessa-start)
   - [Vanessa](#vanessa)
 - [Spirit Realm](#spirit-realm)
+  - [Seal Start](#seal-start)
+  - [Seal 1](#seal-1)
+  - [Seal 2](#seal-2)
+  - [Vanessa 2 Start](#vanessa-2-start)
+  - [Vanessa 2](#vanessa-2)
 - [Abyss](#abyss)
 - [Livesplit and record setup](#livesplit-and-record-setup)
 - [Credits and Links](#credits-and-links)
@@ -51,6 +56,10 @@ I highly recommend checking you the movements and combats videos that I made tha
 
 I would also recommend to check the runs on *[speedrun.com](https://www.speedrun.com/little_witch_nobeta)* and to compare them even if they don't necessarily contain the latest techs and routes, sometimes it's easier to understand something with a video example.  
 I have also done a complete *[Any% NMG WR Analysis](https://www.youtube.com/watch?v=hlDkyTH6TiM&list=PLX-WkeHPvTEy8DhkUkb_UUJxz0aRXCtCf&index=3&t=6313s&pp=gAQBiAQB)* that explains everything that is right and wrong with the WR in this category *(as of the writing of this guide)*. I will often refer to this video since it is timestamped and provide examples for most of the latest discoveries.
+
+> [!NOTE]
+>
+> You can click on any segment title to open the world record run for this section. There are some mistakes made in this run but it helps getting the general idea of a segment.
 
 > You can find me on the [Little Witch Nobeta Speedruns discord](https://discord.gg/3FMeB4m) if you have any question
 
@@ -133,15 +142,15 @@ Run towards the big enemy with arms and then go to the right. Jump on the stone 
 This is by far the easiest boss in the game but the randomness of the fight may make you lose a bit of time and you can't really do anything about it. This boss has a weakpoint that you will need to aim at: the base of his body (the purple flame). It is also easy to stagger this boss using Arcane shots so that's a reliable way to kill him easily without any specific strategy.
 
 The fastest strategy is:
-- Shoot the left jar on the left wall and charge Arcane. Pray for Armor to do an attack that will allow you to easily hit his weakpoint (best one is the charged slash).
-- Shoot the charged Arcane at his weakpoint and immediately destroy the left jar on the right wall.
-- Profit from the fact that he's staggered to shoot a few non-charged Arcane shots at his weakpoint (6 shots is ideal).
-- Start charging immediately and do a triple melee attack combo
-- Shoot the charged Arcane whenever possible while aiming at the jar behind the boss on the left (the charged Arcane projectile will go through the boss and break the jar if aimed correctly)
-- Shoot twice with non-charged Arcane shots (you can sometimes shoot a third time here but if you're too slow the boss will enter in a defensive state which you don't want to happen)
-- Start charging Arcane and do three melee attacks
-- Shoot the last charged Arcane as soon as possible
-- Finish the boss using non-charged Arcane magic if he's low, otherwise charge another Arcane
+1. Shoot the left jar on the left wall and charge Arcane. Pray for Armor to do an attack that will allow you to easily hit his weakpoint (best one is the charged slash).
+2. Shoot the charged Arcane at his weakpoint and immediately destroy the left jar on the right wall.
+3. Profit from the fact that he's staggered to shoot a few non-charged Arcane shots at his weakpoint (6 shots is ideal).
+4. Start charging immediately and do a triple melee attack combo
+5. Shoot the charged Arcane whenever possible while aiming at the jar behind the boss on the left (the charged Arcane projectile will go through the boss and break the jar if aimed correctly)
+6. Shoot twice with non-charged Arcane shots (you can sometimes shoot a third time here but if you're too slow the boss will enter in a defensive state which you don't want to happen)
+7. Start charging Arcane and do three melee attacks
+8. Shoot the last charged Arcane as soon as possible
+9. Finish the boss using non-charged Arcane magic if he's low, otherwise charge another Arcane
 
 > [!NOTE]
 > For this strategy to work, you need to hit the correct jars since for each group of jar, one of them gives more mana than the other. Always break the one with the most mana (or even both).
@@ -159,7 +168,7 @@ This is the second level of the game, the objective in this level is to get the 
 This level starts with a cutscene just after the loading screen, skip it. Turn around after skipping the cutscene and head to the chest containing Wind magic, open it and pick up the book. Same as for the first chest, you can either use an aerial attack or a cancelled melee attack on the ground to open the chest, use the one you're most used to, the timesave is negligible.  
 Since we run in **Load Removed Time**, the timer pauses during loading screens. This is why the best thing to do after getting Wind magic is to open the pause menu and Return to Statue (you can open the menu the exact moment you see the message appear on the top right corner of the screen when picking the magic book). This way you will be back to the start of the level directly instead of having to run back.
 
-After the loading screen, start running directly without waiting for the screen to fade out (yes, it is possible to move while the black fade out animation is still going, try to "feel" the right moment to start running, it's possible to do that after most of the loading screens). Double jump over the obstacle and then follow the path. Do not talk to the cat as of now, we'll pick up the absorption magic book later in the level. Continue on the left until you reach a widder cave. Instead of going right, jump over the stone pillars on the left _(c.f. image below)_ and run until you are next to the falling rocks. Do not go too far or else you will be damaged by the falling rocks and fall back. Destroy newly appeared wall by shooting Arcane magic at it, wait a bit to recover some stamina _(~80%)_, then go up the stairs. Once up the stairs, pass by the big enemy and jump over the small pit, then follow the path until the next big cave.
+After the loading screen, start running directly without waiting for the screen to fade out (yes, it is possible to move while the black fade out animation is still going, try to "feel" the right moment to start running, it's possible to do that after most of the loading screens). Double jump over the obstacle and then follow the path. Do not talk to the cat as of now, we'll pick up the absorption magic book later in the level. Continue on the left until you reach a wider cave. Instead of going right, jump over the stone pillars on the left _(c.f. image below)_ and run until you are next to the falling rocks. Do not go too far or else you will be damaged by the falling rocks and fall back. Destroy newly appeared wall by shooting Arcane magic at it, wait a bit to recover some stamina _(~80%)_, then go up the stairs. Once up the stairs, pass by the big enemy and jump over the small pit, then follow the path until the next big cave.
 
 ![Path to falling rocks](Resources/Underground_Falling_Rocks.webp)
 
@@ -173,7 +182,7 @@ Once you have Ice magic, turn around and follow the path on the right then follo
 
 ![Underground blue light indicator](Resources/Underground_Blue_Light.webp)
 
-> Blue light that indicates the point at which Ice needs ot be charged
+> Blue light that indicates the point at which Ice needs to be charged
 
 You can start running again when you reach around 50% stamina, lock onto the two stone crystals on the right and on the left while still running towards the barrier. Reach the stairs, cast your charged Ice magic _(this will disable the running state)_ when you're on the stairs, start running again and shoot at the third stone crystal directly using non-charged Ice attacks _(you can hold the shoot button)_. Try to end up where the absorption book will spawn _(c.f. image below)_ before the cutscene starts.
 
@@ -187,7 +196,7 @@ Skip the cutscene. After the cutscene, wait for the cat to move _(to avoid talki
 
 > Stats before leaving the statue
 
-Jump directly over the fence in front, then take either left or right at the circular corridor. Stick to the wall to optimize your trajectory. Trigger the cutscene, skip it. Run backward (or turn around), jump and hit the mana crystal twice, jump again and hit it only once. Start charging Ice magic while walking towards the flames, start running again when reaching max stamina. Try to save as much stamina as possible while going up the stairs. Break the crystal by using a triple melee attack combo on the ground. Skip the cutscene.
+Jump directly over the fence in front, then take either left or right at the circular corridor. Stick to the inner wall to optimize your trajectory. Trigger the cutscene, skip it. Run backward (or turn around), jump and hit the mana crystal twice, jump again and hit it only once. Start charging Ice magic while walking towards the flames, start running again when reaching max stamina. Try to save as much stamina as possible while going up the stairs. Break the crystal by using a triple melee attack combo on the ground. Skip the cutscene.
 
 Wait to reach around 80% stamina, jump on the pedestal and double jump then extension to reach the platform in front. Continue in a straight line until the stairs. Here you have two choices: either kill the enemies downstairs to disable the magic barrier or try the barrier skip. I will only explain the barrier skip here.  
 For the barrier skip, you will need to jump onto the arches on the sides (left or right, there's no difference). What I like to do is jump directly over the corner stone support half down the stairs and then jump onto the right arch. Then I double jump of the arch followed by the two aerial attacks directly, all this while moving a bit on the left without moving the camera.
@@ -200,7 +209,7 @@ After skipping the cutscene, head to Tania by going in a straight line in front 
 
 ### [Tania](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=421)
 
-This boss fight is the last real bit of RNG in this run but it is also the biggest one. Depending on which pattern she does, you may lose up to 20 seconds.
+This boss fight is heavily rigged by RNG, depending on which pattern she does, you may lose up to 20 seconds.
 
 The goal of this fight is just to do as much damage as possible by using charged Ice attacks. For this, you will need to learn how to parry most of her attacks, or at least to dodge them. There are also a few jars on the right wall that contains some mana orbs, you can destroy them when Tania isn't attacking and you are low on mana. Most patterns will give you a fully charged Ice attack directly if you parry them, meanwhile two of them can give you two charged Ice attacks.
 
@@ -213,7 +222,7 @@ Always try to hit Tania with non-charged Ice magic between her attacks, especial
 > It is possible in this game to cancel the end of the counter animation to gain back control of Nobeta a bit faster. While this could be thought as something you should do every time, this is not the case! Especially for this fight. The reason for that is that cancelling the end of the counter animation will also cancel the mana regeneration effect. This means that you will recover less mana if you cancel the end of the counter animation.  
 > Mana being really scarce in this fight, it is worth to wait for the animation to end against Tania. Nonetheless, you will want to cancel the animation against Monica, and the best way to do this is to do a "backward dodge", meaning that you have to dodge without pressing any direction input. This way the dodge animation will be faster (just a small back hop instead of a full roll).
 
-At the end of the fight, wait for the cutscene, skip it, and then run directly towards the door in a straight line as fast as possible, without letting the time for the souls to reach you. Note that you cannot interact with the door while running, this means that you will need to cancel the running state when reaching the door. You may ask why is so important to reach the door as fast as possible? This is because we're exploiting a bug in the game that makes all souls obtained during a loading screen count twice their value when playing in Advanced (no change in Standard as far as I know). If done correctly, you should have around 900 souls at the start of Lava Ruins.
+At the end of the fight, wait for the cutscene, skip it, and then run directly towards the door in a straight line as fast as possible, without letting the time for the souls to reach you. Note that you cannot interact with the door while running, this means that you will need to cancel the running state when reaching the door. You may ask why is so important to reach the door as fast as possible? This is because we're exploiting a bug in the game that makes all souls obtained during a loading screen count twice their value when playing in Advanced (no change in Standard as far as I know). If done correctly, you should have around 900 souls at the start of Lava Ruins. This souls duplication glitch is considered a major glitch and it is not allowed to do it on purpose in this category but since you can't really avoid doing the glitch in this room if you just run straight to the door, it is allowed for this specific part.
 
 ## Lava Ruins
 
@@ -246,6 +255,8 @@ Now we're going to get Fire magic. Follow the path on the left and kill the doll
 
 This part that leads to the "crystal ride" is quite straightforward: take the first path to the left after the room where you just destroyed the stone crystal, jump to the right onto the platform then go right, kill the two enemies there while recovering your stamina _(~60%)_, jump on the left while dodging the maid doll attack (try to be as much on the right as possible to dodge her attack), shoot the enemy directly on the ground on your right using Fire magic, jump over the small pit, kill the enemy that is waking up and then follow the path to the big blue mana crystal which I call the crystal ride.
 
+> [Video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=637)
+
 Again, there are a lot of ways to do this part. I am going to explain the one I use, this is the fastest but hardest method. I will link a video example below of the other method that is a bit easier.  
 Start by activated the crystal ride, charge Ice and use two times two aerial melee attacks against the crystal. Lock onto the first two enemies, cast and charge Ice again using four aerial melee attacks just as before. Lock onto the only enemy on the left, cast and repeat charging Ice another time with four aerial melee attacks. Finally, lock onto the last two enemies, charge Ice and start running directly when you reach 100% stamina in the direction of the crystal ride. The timing of this part will always be right if you followed the previous instructions, there is no need to wait. Do a double jump extension and land onto the stone ledge on the left using the momentum the crystal ride gave you. Make sure to reposition yourself on the ledge and then jump to the next one. Jump onto the third one. Jump on the platform on the right while locking the flying enemy, then jump again and lock onto the second enemy next to you. Go around the ledge on the right and jump to the last one. Jump towards the end of the crystal ride and cast the Ice magic whenever you are above land. Shoot at the enemy on the left while recovering a bit of stamina _(~60%)_. Follow the path upstairs until the next stairs. Break the jar on the left containing a mana Meager Magic Crystal then Pray to the statue. You've done the hardest part of Lava Ruins!
 
@@ -270,7 +281,7 @@ This fight has the particularity of being always the same in the sense that Moni
 
 The main point of this fight is to burn through your mana as much as possible since countering any of Monica's attack will recover a lot of mana. You can use either Fire or Ice magic (always in the head) to achieve this, I personally prefer to use Fire since it is either to be consistent with it (you can count the number of non-charged attacks you have to do). Always charge an attack before countering and use non-charged attacks between Monica's attack.
 
-So how is it possible to save time in this fight since she should always die at the same attack and the fight has no rng? It will depend on how long you wait before exploding her two charged spheres, indeed, the damage increases the more you wait. One thing to know is that the second sphere is charging way faster than the first one, so you should always wait for the second one to be fully charged, which will deal 3600 damages. I always try to wait for at least 2000 damages on the first sphere, which should be enough to kill her on the second one directly if the rest of the fight is done correctly. This number will depend on how you do the fight, it may be more or less, find a value you are confortable with.
+So how is it possible to save time in this fight since she should always die at the same attack and the fight has no rng? It will depend on how long you wait before exploding her two charged spheres, indeed, the damage increases the more you wait. One thing to know is that the second sphere is charging way faster than the first one, so you should always wait for the second one to be fully charged, which will deal 3600 damage. I always try to wait for at least 2000 damage on the first sphere, which should be enough to kill her on the second one directly if the rest of the fight is done correctly. This number will depend on how you do the fight, it may be more or less, find a value you are confortable with.
 
 Here is a rundown of how I do this fight know that you know the mechanics behind it.
 
@@ -290,7 +301,7 @@ First cycle:
 - Charge Fire, counter, cancel by dashing forward, shoot the charged attack
 - Do three non-charged Fire attacks, swap to Ice
 - Shoot at the sphere using non-charged Ice attacks with a small delay between each attack, do not hold the shoot button.
-- Adjust the delay to get the amount of damage you want (I try to get at least 2000 damages here)
+- Adjust the delay to get the amount of damage you want (I try to get at least 2000 damage here)
 
 Second cycle:
 - Charge Fire, shoot it at her legs (her body is immune during the recovering animation!)
@@ -373,22 +384,182 @@ After the cutscenes, run past the statue, go up the stairs and follow the corrid
 ### [Vanessa](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1194)
 
 To perform the optimal strategy of this fight, you will need to learn how to recognize when Vanessa stops dashing and is going to attack. This fight is quite easy and has no randomness if you know how to recognize this pattern. The fight goes as follow:
-- Shoot once at her using a non-charged Thunder attack to cancel her jump
-- Swap to Ice, break all the jars on the left side as fast as possible
-- Charge Thunder, cast it at Vanessa once directly as she should be already attacking
-- Go away from her, break the jars on the right side
-- Charge Thunder, cast it at her again and make sure not stay too close to her
-- Use a purple crystal, charge Thunder and use another purple crystal
-- Wait for her to stop dashing, cast Thunder at her, charge and cast another Thunder
-- Get away from her and repeat: purple, charge, purple, cast, charge, cast
+1. Shoot once at her using a non-charged Thunder attack to cancel her jump
+2. Swap to Ice, break all the jars on the left side as fast as possible
+3. Charge Thunder, cast it at Vanessa once directly as she should be already attacking
+4. Go away from her, break the jars on the right side
+5. Charge Thunder, cast it at her again and make sure not stay too close to her
+6. Use a purple crystal, charge Thunder and use another purple crystal
+7. Wait for her to stop dashing, cast Thunder at her, charge and cast another Thunder
+8. Get away from her and repeat: purple, charge, purple, cast, charge, cast
 
 Even if it seems difficult at first, you can always cast thunder just before she's attacking if you're fast enough, even when she's doing the spin attack which is her fastest attack. [Here is a good example of doing it](https://www.youtube.com/watch?v=9vCcmfOvgX8&t=1244s).
+
+> [!WARNING]
+>
+> At this point in the game, you can still self damage yourself with Thunder so make sure to always get out of the Thunder area of effet before casting hit.
 
 Skip the cutscene after killing Vanessa to go to the next level, Spirit Realm.
 
 ## Spirit Realm
 
+Spirit Realm is probably the longest level of the game, it contains a lot of platforming sections and two bosses (Seal and Vanessa 2).  
+The platforming sections have been optimized a lot and it may not be wise to directly try using the best routes available. I will in this guide describe the route used in the current world record _(as of 2024/08/14)_ and link a few new experimental routes at the end.
+
+### [Seal Start](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1257)
+
+Start by skipping the first cutscene.
+
+Follow the path to the right of the statue until you get close to the middle of the next area with enemies. Stop running to recover a bit of stamina _(~70%)_ and kill the farthest enemy in the middle behind the barrel. Climb on the arches by either jumping on the crystal on the right _(c.f. blue path in the image below)_ or by jumping on the barrel _(c.f. purple path in the image below)_. Jump towards the next stairs and go upstairs while breaking the crystals. Break the crystals at the top of the stairs and charge Thunder using all the mana orbs that spawned. Then go either left to climb normally or use the crystal directly on the left to jump on the ledges on the right wall. Make sure to not get hit by the purple archer enemy.
+
+![Spirit Realm Barrel jump](Resources/Spirit_Barrel.webp)
+
+> Possible paths to climb the arches. Start on top of the crystal for the blue path or on top of the barrel for the purple path.
+
+When at the top, cast thunder in the pack of crystals and recover your stamina. When full on stamina, jump onto the crystal in front of you. From there, jump towards the side of the small floating island and then climb the side until you reach the top. From there, you want to jump onto the stone fence on your right, then on one of the two pillars (you can use an aerial melee attack to make this jump easier), and from there reach the platform with the two crystals. Get on top of the crystals and jump to the right. Recover your stamina completely and then follow the stairs upward, climb on the crystal directly on your left, and get onto the last platform on your left from there. Finally, follow the stairs path until you reach the statue, make sure to dodge the enemies that dash at you by sidestepping or simply kill them, otherwise they may cancel you when trying to Pray to the statue. This section can be a bit confusing so refer to the [video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1297). 
+
+![Spirit Realm path to Seal statue](Resources/Spirit_Seal_Statue.webp)
+
+> Path to seal statue, start on top of the crystal
+
+Fill your inventory with purple crystals and use the rest of your souls to upgrade the Intelligence stat. The fight against Seal 1 and 2 varies a bit depending on your Intelligence level but there are no strict requirements. Leave the statue, run and jump over the fence while heading to the right. Use a double jump extension to reach a ledge on the right side of the wall in front. Single jump onto the next ledge and then reach the top of two arches using a double jump extension (there is an invisible collider there that you can walk onto). From the second arch, climb on the small floating island. Go to the left and destroy the breakable wall, then follow the path of this wall to get to your second Thunder book.
+
+Recover your stamina and prepare to jump on the left of the stairs next to the chest. With at least 50% stamina, jump along the wall and start doing a single jump extension (keep your second jump). There is an invisible wall to get past, it extends past the small floating island on the right. When past the invisible wall, use your second jump to redirect your jump to the right and pass below the arch in front. Jump again to reach the last corner ledge of the building in front. Do a double jump extension to reach the Seal fight arena. Again, this section can be quite confusing so refer to the [video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1346). Trigger the cutscene, skip it.
+
+### [Seal 1](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1388)
+
+No need to keep it a secret, the first Seal fight can be the most difficult, annoying, and frustrating fight. The only way to make this fight easy (but slow) is to play on a quite old version of the game but this is not the one recommended in this guide _(c.f. [Game Versions](#game-versions))_. I will explain below how to do the fastest but hardest method to kill this boss. I do not recommend it for new runners as it is a strategy that can kill a run quite easily as it is the opposite of safe. You may prefer to find your own strategy for this boss and apply it until you feel ready to use the one detailed below, as of writing this, I am still the only runner to perform this regularly in a run, and I often half-fail it, losing up to 20 seconds.
+
+Before explaining the exact strategy in detail, let's explain how this fight work, knowledge that is good to know for any strategy. Those notes are taken from an analysis of the fight that was made on the speedrun discord, use the map below to visualize the arena.
+
+> She (the Seal) will act in three distinct phases in this specific order (hover, force distance, land) if she's never canceled:
+>
+> 1. She will hover for some seconds, she often move a bit in this phase but she will never land directly, so the first "aerial dash" is always an hover and she will always land to a different spot, this is kind of a "fake landing"
+> 2. If you keep following her while she hover she will try to make you escape by doing a close range attack without the need to be on a landing spot
+> 3. If you let her hover and keep some distance with her, two different things can happen (4 or 5):
+> 4. If you're far from her, she will almost always land to a spot near Nobeta and do one of her three different close range attacks (forward dash, swipes or downward slam).
+> 5. Otherwise, if you're close she will almost always land to a spot far from you and do one of her three different range attacks (explosive balls, beams from ground or repulsive wall)
+> 6. If she gets cancelled when she is doing her attack or casting it, she will most likely skip her hovering phase and attack again directly
+> 
+> There is a total of 498 mana available counting all the crystals in the arena.  
+> It also may be worth to know that:
+> - Arcane needs 45 mana to get fully charged
+> - Ice is 60
+> - Fire is 75
+> - Lightning is 90
+
+![Seal 1 fight arena](Resources/Spirit_Arena.webp)
+
+> Seal 1 fight arena with all the possible landing points and mana crystals
+
+With all this information, here is how the fight goes optimally.
+
+First Thunder cycle:
+- Shoot once at Seal using non-charged Thunder
+- Break the first crystal on the left and then the three crystals on the right using non-charged Ice attacks
+- Charge Thunder and wait for Seal to land somewhere
+- Go in range of her, use a purple and cast the charged Thunder under her to stagger her _(use the shadow if it helps you knowing where to cast)_
+- Charge the second Thunder and wait a bit
+- Cast the second Thunder when Seal is starting to recover to stagger her a second time. Casting this Thunder too late will result in Seal not taking the full damage, and casting it too early won't stagger her. You know that your timing is optimal when she gets staggered.
+
+Second Thunder cycle:
+- If the double stagger was done correctly, Seal will nearly always charge at you
+- Go in any corner of the arena away from Seal that has enough mana to charge a Thunder _(all except the top-left corner)_
+- Shoot a non-charged Thunder attack at her while going to the corner
+- Destroy the crystals in the corner, charge Thunder
+- Wait for Seal to land, go in range of her, use a purple and cast the charged Thunder under her to stagger her
+- Charge the second Thunder and wait a bit
+- Cast the second Thunder when Seal is starting to recover to stagger her a second time
+
+Last Thunder cycle:
+- Go in another corner of the arena away from Seal that has enough mana to charge a Thunder _(all except the top-left corner)_
+- Shoot a non-charged Thunder attack at her while going to the corner
+- Destroy the crystals in the corner, charge Thunder
+- Wait for Seal to land, go in range of her, cast the last charged Thunder under her to stagger her
+- Use non-charged Thunder and Ice attacks to finish her off if the has some HP remaining
+- Before the cutscene starts, destroy as many crystals as possible using non-charged Ice attacks
+
+> [!TIP]
+>
+> Take care of the direction you push Seal in when casting Thunder, you won't be able to hit her if you push her out of the arena since you can only cast Thunder on solid ground.
+>
+> In this first fight against Seal, she has no "head" hitbox so it's not necessary to aim at her head (you can headshot her in the next fight though!). In addition, her hitbox does not move the same way as her body so it may be hard sometimes to aim at her correctly. From experience, aiming at the lower part of her body is what works the best.
+
+### [Seal 2](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1446)
+
+This is another part of the run that is highly technical and that I would never recommend for someone that is starting to learn the run. I would recommend to just kill the Seal using any combination of Arcane and Thunder magic. Not doing what is written below is only a 15 seconds timelose waiting for the barrier to disappear, which is not important until you aim at beating the world record. So, skip to [Vanessa 2 Start](#vanessa-2-start) if you don't feel confident enough for this trick.
+
+At the end of the Seal 1 fight, run towards the stairs and destroy any crystal on your way. At the stairs, cut by jumping to the left directly. Turn your camera around and destroy the two crystals that gives mana on the right side using non-charged Ice attacks. Swap to Thunder, trigger the cutscene, skip the cutscene.
+
+After the cutscene:
+1. Shoot at Seal using one non-charged Thunder attack
+2. Charge Thunder, use a purple crystal then cast Thunder it in front of her to optimize the damage
+3. Turn around during the cast animation, swap to Ice to break the crystal on the far right (it is important to get this mana to make sure you will have enough to kill her)
+4. Turn back to Seal, hit her with a non-charged Thunder attack
+5. Charge Thunder, use a purple crystal, cast Thunder in front of her
+6. Charge Thunder, use your last purple crystal, cast Thunder in front of her again
+7. Shoot a non-charged Thunder attack, charge Thunder
+8. Here is the hard part, you need to decide on where to put your charged Thunder attack for an ulterior use. This is mostly done by feeling depending on where the Seal is choosing where to put the charged Thunder.
+9. Run towards the crystal on the left _(c.f. image below)_, jump on it
+10. From there, jump onto the next stone pillar on the right
+11. Single jump onto the last pillar in front
+12. Single jump to the right of the right ledge
+13. Do a corner jump to reach the arch on the other side of the wall on your left
+14. Jump on the arch until you have enough height and you see Nobeta doing the "first jump" animation. If you see the "second jump" animation (the one with the Wind magic circle), do another jump until you get the "first jump" animation. This is important because you will need the second jump to jump over the barrier
+15. When getting a "first jump", turn around and use your second jump to jump over the barrier
+16. Cast Thunder directly if you are confident in the position you put it, otherwise land down and look at the Seal to know when to cast Thunder
+
+![Seal 2 barrier skip](Resources/Spirit_Seal_Barrier.webp)
+
+> Seal 2 barrier jump route
+
+> [!IMPORTANT]
+>
+> You will need to adjust the damage you deal to Seal 2 depending on your Intelligence level. You can adjust your damage by doing more or less non-charged Thunder attacks between the charged attacks or by intentionally casting the charged Thunders off position to deal less damage with them.
+
+### [Vanessa 2 Start](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1494)
+
+After killing the Seal for a second time, run towards the stairs on the left. Recover your stamina while going up the stairs. At the top of the stairs, turn around, start running to get momentum and then jump over the stone fence on the left. Here you will have to do the longest jump extension in the run. The objective is to land onto the arches far down. This jump extension is explained in details in the [Movements Guide video](https://www.youtube.com/watch?v=3ewwr3Cm8EU&t=274s). It is also a good place to train your jump extensions.
+
+Once on the arches, jump towards the platform in front of you. From there climb onto the big crystal and jump onto the floating island using a double jump extension. Recover your stamina. Follow the path, break a few crystals on the way and go up the stairs. Kill the blue floating ball enemy at the top of the last set of stairs, break the crystals nearby and charge Fire. With Fire charged, go as close as possible to the barrier and hit the stone crystal behind it using the first aerial melee attack (the second one does not having enough range, let yourself fall to the ground after the first attack). Do this three times to break the crystal.
+
+Skip the cutscene, jump down to the left and take the teleporter. After the teleporter animation, jump onto the ledge of the pillar on the left, then onto the first arch. From there jump onto the next arch in front and then on the land on the left. Follow the path past the chest, break the wall at the top of the stairs and continue until you reach the next statue.
+
+At the statue, fill your inventory with purple crystals, you may skip upgrading Intelligence since you shouldn't have a lot of souls at this point. Go up the stairs and trigger the cutscene for Vanessa 2 fight, skip the cutscene.
+
+### [Vanessa 2](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1613)
+
+This fight can be done quite consistently using the strategy described below since the goal is to cancel all of Vanessa attacks, thus not letting any room for RNG.
+
+The fight goes as follow:
+1. After the cutscene, shoot one non-charged Thunder attack aimed at Vanessa's head
+2. Use a purple crystal and then wait as much as possible before charging to minimize the time in slow mode
+3. Charge Thunder, use a second purple crystal
+4. Cast thunder at Vanessa, charge and cast a second Thunder at her directly
+5. Shoot a non-charged Thunder attack aimed at her head
+6. Repeat the same pattern: use a purple, wait, charge Thunder, use a second purple, cast, charge, cast
+7. Shoot a non-charged Thunder attack at her
+8. Use your last purple crystal
+9. Shoot another non-charged Thunder attack at her before charging
+10. Charge Thunder, cast it at Vanessa
+11. If she's not dead, shoot a last non-charged Thunder attack
+
+> [!WARNING]
+>
+> At this point in the game, you can still self damage yourself with Thunder so make sure to always get out of the Thunder area of effet before casting hit.
+
+Skip the cutscene after killing Vanessa 2, leading to the last level of the game: Abyss.
+
+> [!NOTE]
+>
+> Before going into Abyss, here are some new routes for Spirit Realm that were found recently. Those are not used in the world record run since they were find after the run and nobody had the time to test them in-depth yet, use them at your own discretion.
+> - [Post Seal 2 charged thunder](https://clips.twitch.tv/KathishJazzyTigerKAPOW-R1UCViqHE4S8aIz4)
+> - [Post Seal 2 self damage barrier tech](https://www.youtube.com/watch?v=pgUGiwXEU_A)
+> - [New Vanessa 2 fight](https://clips.twitch.tv/ResoluteConcernedDolphinRalpherZ-UiMVYHrIDUVnpNQC)
+
 ## Abyss
+
+<!-- TODO Add new Nonota tech (https://clips.twitch.tv/WimpyExquisiteBulgogiCharlietheUnicorn-Ddq1v_QUNpcoH4SA and https://clips.twitch.tv/CrepuscularStupidTigerBatChest-Lcx60fBGa7aexIVK) -->
 
 ## Livesplit and record setup
 
