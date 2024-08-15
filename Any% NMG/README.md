@@ -39,6 +39,11 @@
   - [Vanessa 2 Start](#vanessa-2-start)
   - [Vanessa 2](#vanessa-2)
 - [Abyss](#abyss)
+  - [Path to the trials](#path-to-the-trials)
+  - [First Trial (Lava Ruins)](#first-trial-lava-ruins)
+  - [Second Trial (Dawnruin Castle)](#second-trial-dawnruin-castle)
+  - [Third Trial (Underground)](#third-trial-underground)
+  - [Nonota](#nonota)
 - [Livesplit and record setup](#livesplit-and-record-setup)
 - [Credits and Links](#credits-and-links)
 
@@ -559,7 +564,89 @@ Skip the cutscene after killing Vanessa 2, leading to the last level of the game
 
 ## Abyss
 
-<!-- TODO Add new Nonota tech (https://clips.twitch.tv/WimpyExquisiteBulgogiCharlietheUnicorn-Ddq1v_QUNpcoH4SA and https://clips.twitch.tv/CrepuscularStupidTigerBatChest-Lcx60fBGa7aexIVK) -->
+### [Path to the trials](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1670)
+
+This is the last level of this game and thankfully it is quite easy. Take your time to catch your breathe for the last boss fight!
+
+Start by skipping the cutscene after the loading screen. Go down from the side directly to touch the ground below as soon as possible _(you can aim here to redirect yourself while in the air to optimize your speed)_. Here we need to charge Thunder but we don't have any purple crystal left. To achieve this, it is required to break the non-enemy dolls on the ground and the crystals next to the teleporter. Break them while running towards the crystal, charge Thunder and then enter the teleporter. It is required to charge Thunder here to not get cancelled by the enemies during the teleport animation.
+
+// TODO Add image of breakable dolls and crystals
+
+After being teleported into the prison, break the jars on the left and activate the lever. Go into the next room, break the barrel and walk under the light source, this will trigger an alert. You may think that triggering the alert is a bad idea because it will spawn some enemies, which is right, but it also lights up the whole area, making the next platforming section way easier.  
+Continue to follow the path until you pass past the big enemy with arms and enter the next room _(which you may recognize as it is the room where you saved the cat at the beginning of the game)_. From there you have two different paths to skip the next magic barrier.
+
+The first path is to run along the wall on the left by going down the stairs, jumping overt the small pit and then jumping onto a small ledge on the wall in front of you by going over the stone fence. From this ledge you will need to a 90° jump to get over the barrier _(c.f. blue path below)_. This is the easiest but slowest path.  
+The second jump uses the small crystal in front to get enough height to reach the stone ledges on the pillars descending from the roof. Jump from one ledge to another using single jumps and then do a double jump extension to jump over the magic barrier from the last ledge _(c.f. purple path below)_. This is easier to execute if you triggered the alert to light up the room.
+
+// TODO Add paths image and videos
+
+After jumping over the magic barrier, take the teleporter. Go to the statue in front of you and Pray. As usual, fill your inventory with 5 purples crystals and leave the statue immediately, there is no need to upgrade Intelligence there, we'll do that at the last statue. You can then go either right or left to do the trials in the order your prefer, but I will explain them from right to left, so go right.
+
+### [First Trial (Lava Ruins)](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1769)
+
+This trial is quite straightforward. Follow the path downstairs, run until the lava pit. Before jumping over the lava, kill the first enemy directly on the left to avoid being cancelled later on. Jump over the lava and activate the lever on the right (break the jar in front of it first). Skip the cutscene (the timing for this is a bit after Nobeta's foot touch the ground).
+
+Use a purple crystal and then charge thunder. Go down then to the left too the next room. Jump down either right or left and land on a pillar or on a fence (you can also land directly on the fire if you can aim fast). From your safe spot, cast your charged Thunder between the two dolls to kill them both at the same time, making the fire disappear. It is also possible to aim and cast the Thunder while still in the air, which is a bit faster, but I wouldn't recommend it since failing to kill the dolls put an end to your run.
+
+After killing the dolls, run towards the teleporter and use it. Swap to Fire during the animation. When arriving on top of the trial, shoot the crystals on the left while running towards them. Charge Fire when close to the mana orbs and use two aerial melee attacks to destroy the stone crystal. From there, do a jump extension to the right to reach the next trial teleporter.
+
+### [Second Trial (Dawnruin Castle)](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1844)
+
+For this trial, follow the corridor until you reach the stairs. Use a purple crystal and then kill the two enemies downstairs using non-charged Thunder attack headshots then charge Thunder.
+
+Go downstairs, you will see the boulder breaking if you timed it right. Go up the stairs and then jump behind you at the top to reach the last Thunder magic book chest. From this point on, you have Thunder lvl.4, meaning that you can no longer get hit by your own Thunder.
+
+> [!NOTE]
+>
+> I just found out while writing this guide that it is possible to skip the first boulder entirely. To do that you need to charge Thunder at the start of the trial (while walking to make sure to not trigger the boulder spawn collider!) and then run directly upstairs. Here is a [video example](https://www.youtube.com/watch?v=tJINMnAzsKM). As always, this has not been tested in a run yet, use at your own discretion.
+
+After getting Thunder lvl.4, go down into the room of the next enemy. Break the crystals on your way to spawn mana orbs and charge Thunder. With Thunder charged, go into the end of the room to spawn the special doll, use a purple, go next to the doll and cast Thunder on yourself. Charge Thunder again and repeat till the doll dies.
+
+Go towards the next teleporter, use it and swap to Fire. Same as before, shoot at the crystals, get close to them, charge Fire and then break the stone crystal. Jump down to the next trial on the right. Use the teleporter.
+
+### [Third Trial (Underground)](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1929)
+
+For the last trial, start by breaking the wall in front of you using Fire or Thunder, then do a running melee attack to break the jars. Cancel the animation by evading forward and then run towards the rock wall in front. Wait a bit then charge Thunder (if you charge Thunder too early, the wall will take more time to open).
+
+Go down the path when it opens. When reaching the open cave, cast thunder to recover some stamina and kill a few enemies and then follow the path to the left to reach the magic barrier. Jump onto a rock pillar in front of the barrier and use the trip animation to pass through the barrier ([video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1955)). Evade to stand up faster then take the teleporter and swap to Fire.
+
+For the third time, shoot at the crystals, get close to them, charge Fire and then break the stone crystal. Skip the cutscene. Go towards the last teleporter, use it and then skip the cutscene. Go down and Pray to the statue (use an aerial attack before touching ground to avoid the "fall damage"), take 5 purple crystals and upgrade Intelligence as much as possible using your remaining souls.
+
+Leave the statue and follow the path to the last boss of the game, Nonota. trigger the cutscene and skip it.
+
+> [!NOTE]
+>
+> There is a new tech that can saves a bit of time at the end of the third trial. It has not been used in a run yet but if you want to try it, here is a [video example](https://clips.twitch.tv/CrepuscularStupidTigerBatChest-Lcx60fBGa7aexIVK) of the tech in question.
+
+
+### [Nonota](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=2039)
+
+For this fight, the objective is to skip the second phase of Nonota entirely. To achieve that, it is needed to stagger Nonota continuously, not letting her the time to enter second phase. There are three different known ways to achieve this, I will explain in details the one that was discovered recently which both the easiest and the fastest method. I will link the other two methods below.
+
+The fight goes as follow:
+1. Use non-charged Thunder to headshot Nonota
+2. Charge Thunder
+3. Dash towards Nonota while evading her first attack
+4. Use a purple crystal while walking backwards a bit
+5. Cast your charged Thunder
+6. Charge Thunder then use another purple crystal
+7. Aim below Nonota to make her evade in one direction
+8. Look at the direction she is going and "preshot" her landing point by casting Thunder there
+9. Nonota should be staggered from the previous charged Thunder attack. Now we will repeat the same pattern until she dies
+10. Charge Thunder, use a purple, cast Thunder, shoot a non-charged Thunder attack and repeat until she dies
+
+Since this method was not the one used for the world record, you can find [a video example of it here](https://clips.twitch.tv/WimpyExquisiteBulgogiCharlietheUnicorn-Ddq1v_QUNpcoH4SA).
+
+> [!TIP]
+>
+> It is not necessary to use non-charged Thunder attacks if you're Intelligence level is high enough (lvl. 22) but even if you don't have to, it is faster to do so.  
+> To hit the non-charged Thunder attacks easily, the best it to align yourself with Nonota and push her either towards you or away from you. This way, you won't have to move your camera left or right, only up or down a little bit.
+
+> Below are the two other methods to skip the second phase of Nonota. I wouldn't recommend them but if they are easier to perform for you, go for it
+> - [Fire melee evade variant](https://www.youtube.com/watch?v=WStaMnVWT2U&t=2207s)
+> - [Fire melee counter variant](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=2041s)
+
+Congratulations, this is the end of the run! If I had to something to the guide, it would be: train, train, and train more until you achieve the goals you set yourself, you will get it eventually! May your journey on this game be full of PBs.
 
 ## Livesplit and record setup
 
