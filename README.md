@@ -1,4 +1,4 @@
-![Title Nobeta Guides](Title.webp)
+![Title Nobeta Guides](Resources/Title.webp)
 
 > A collection of Little Witch Nobeta guides
 
@@ -22,3 +22,6 @@
 
 - [Little Witch Nobeta Speedruns Discord](https://discord.gg/3FMeB4m) - Community discord with a lot of information, resources and helpful members
 - [Speedrun.com leaderboard](https://www.speedrun.com/little_witch_nobeta) - Official Little Witch Nobeta speedrun leaderboard
+
+<!-- Fix style when printed to HTML -->
+<link rel="stylesheet" href="/Resources/fix.css">

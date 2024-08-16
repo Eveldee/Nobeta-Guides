@@ -696,3 +696,6 @@ Useful links/softwares:
 - **[Speedrun.com leaderboard](https://www.speedrun.com/little_witch_nobeta)**: Official Little Witch Nobeta speedrun leaderboard
 
 A lot of thanks to Shen ([@shengon]([shengon](https://www.twitch.tv/shengon))) for helping me to write and proofread the guide while also providing some useful video examples.
+
+<!-- Fix style when printed to HTML -->
+<link rel="stylesheet" href="/Resources/fix.css">
