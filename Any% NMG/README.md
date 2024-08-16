@@ -10,7 +10,7 @@
 - [Introduction](#introduction)
 - [Game versions](#game-versions)
 - [Settings and controls](#settings-and-controls)
-  - [Cursor Indicator](#cursor-indicator)
+  - [Cursor Indicator/Crosshair](#cursor-indicatorcrosshair)
 - [Souls, enemies, stats, ...](#souls-enemies-stats-)
 - [Okun Shrine](#okun-shrine)
   - [First Barrier](#first-barrier)
@@ -49,7 +49,7 @@
 
 ## Introduction
 
-This guide is aimed at anyone that would be interested in trying to play in the Any% NMG (No Major Glitches) category. A lot of information in this guide can be used for other categories but the differences won't be explained here.
+This guide is aimed at anyone who would be interested in trying to play in the Any% NMG (No Major Glitches) category. A lot of information in this guide can be used for other categories but the differences won't be explained here.
 
 > [!IMPORTANT]
 > When souls count or mana usage is mentioned, the guide assume that the game is in Advanced difficulty, anything that works in Advanced can also work in Standard.
@@ -70,13 +70,36 @@ I have also done a complete *[Any% NMG WR Analysis](https://www.youtube.com/watc
 
 ## Game versions
 
+You may be wondering on which version to play the game for speedrunning purposes. The answer depends on the category you are running in. The version with the least patched bugs is `1.0.3` so it is a good version for OoB categories. As for NMG, it is best to run in `1.0.5` or `1.1.0` because Thunder can hit enemies in the air reliably since `1.0.5` and a few things got changed in both `1.1.1` and `1.1.2`. Other than that, the only differences between `1.0.5` and `1.1.0` is that you have access to Trial Tower and a few more skins in the `1.1.0` version.
+
+To sum up:
+- Play in `1.1.0` in NMG categories
+- Play in `1.0.3` for heavily glitched categories like OoB
+
+This guide is written assuming that you are playing with game version `1.1.0`. You can find information on how to download and use an older version of the game on the [Little Witch Nobeta Speedruns discord](https://discord.gg/3FMeB4m) in the [#version-updates](https://discord.com/channels/728704002405040159/731102833256038460/1027892013594587176) channel.
+
 ## Settings and controls
 
-First and foremost, 
+First and foremost, deciding on good settings and controls is a good thing to do. For the settings, I recommend to use **Toggle** for **Dash Type** and to set the **Camera Shake** to **0**. Make sure to also set **Attack Pause** to **OFF** as this settings can make you lose a considerable amount of time if enabled (up to multiple seconds!) because the game will pause for a brief delay for each attack. Also, there is no known differences between any language in this game so use the one you prefer. For the camera settings it's up to your preferences, you can find mine below.
 
-### Cursor Indicator
+Choosing good controls may help you a lot, especially if you're not using a controller. In the few things that I changed there is:
+- Magic select using the number row (1, 2, 3, 4) and items using the function key row (F1, F2, ...). This allows me to swap magic type way faster and makes doing quick-swapping a breeze at the cost of having a harder time to use items using the shortcuts (that's why you'll see me using the scroll wheel most of the time for items)
+- Also map **Tab** to Thunder magic (because yes I use Thunder a lot and '4' is a bit far for my left hand)
+- Map **Caps Lock** to the Pause Menu, same reason, the Esc key is a bit far so I get less stress on my hand
+
+### Cursor Indicator/Crosshair
+
+One thing that is allowed and that I find indispensable for this game is using cursor indicator (also named a crosshair). This is a visual indicator that will allow you to aim more easily, especially when not using the "aim" button. One advantage of not using the aim button is that you won't have the small random camera movements which can make you miss in some cases, especially with the high zoom of some magics like Thunder.
+
+It is really easy to setup a cursor indicator and I would recommend anyone that have difficulties to aim to try using one. I myself use [CrossOver](https://github.com/lacymorrow/crossover) with a [custom crosshair](Resources/Crosshair.png). There are other softwares available for this, some screens even have this integrated, use whichever you prefer.
 
 ## Souls, enemies, stats, ...
+
+Before starting to talk about the run in itself, I wanted to talk a bit about all the economy around souls, enemies, and stats. In this game, you can get souls by killing enemies to upgrade your stats or get crystals at each statue. Killing as many enemies as possible, even if it makes you lose time at first, was considered a good strategy and worth in the end (to kill bosses faster thanks to having more upgrades in Intelligence for example). I myself am not an advocate of this strategy and would say you should only kill the enemies that you can kill without losing any time or only a small amount of time. For example, killing enemies while you are running or when you are recovering your stamina is perfectly fine but I would never go back or stop completely to kill an enemy. In addition, it is not an issue to miss a few enemies, the souls requirement are quite flexible, even more so if you know how to adjust your damage and compensate in case you have lower Intelligence level than usual.
+
+Of course, I'm not saying that getting a lot of souls isn't important, especially in the first levels. But it is a fact that upgrading Intelligence has a diminishing return since the amount of souls required to upgrade it scales way faster than the number of souls you get from enemies. It is still something that needs a lot of investigation and testing, you may want to adjust you own route to get more or less souls, it's maybe even worth to skip a few upgrades at statues, especially at the end.
+
+That's enough introduction talk, I'm sure you just want to play and speedrun at this point, so let's get to it!
 
 ## Okun Shrine
 
@@ -570,15 +593,17 @@ This is the last level of this game and thankfully it is quite easy. Take your t
 
 Start by skipping the cutscene after the loading screen. Go down from the side directly to touch the ground below as soon as possible _(you can aim here to redirect yourself while in the air to optimize your speed)_. Here we need to charge Thunder but we don't have any purple crystal left. To achieve this, it is required to break the non-enemy dolls on the ground and the crystals next to the teleporter. Break them while running towards the crystal, charge Thunder and then enter the teleporter. It is required to charge Thunder here to not get cancelled by the enemies during the teleport animation.
 
-// TODO Add image of breakable dolls and crystals
-
 After being teleported into the prison, break the jars on the left and activate the lever. Go into the next room, break the barrel and walk under the light source, this will trigger an alert. You may think that triggering the alert is a bad idea because it will spawn some enemies, which is right, but it also lights up the whole area, making the next platforming section way easier.  
 Continue to follow the path until you pass past the big enemy with arms and enter the next room _(which you may recognize as it is the room where you saved the cat at the beginning of the game)_. From there you have two different paths to skip the next magic barrier.
 
-The first path is to run along the wall on the left by going down the stairs, jumping overt the small pit and then jumping onto a small ledge on the wall in front of you by going over the stone fence. From this ledge you will need to a 90° jump to get over the barrier _(c.f. blue path below)_. This is the easiest but slowest path.  
-The second jump uses the small crystal in front to get enough height to reach the stone ledges on the pillars descending from the roof. Jump from one ledge to another using single jumps and then do a double jump extension to jump over the magic barrier from the last ledge _(c.f. purple path below)_. This is easier to execute if you triggered the alert to light up the room.
+The first path is to run along the wall on the left by going down the stairs, jumping overt the small pit and then jumping onto a small ledge on the wall in front of you by going over the stone fence. From this ledge you will need to a 90° jump to get over the barrier _(c.f. purple path below)_. This is the easiest but slowest path.  
+The second jump uses the small crystal in front to get enough height to reach the stone ledges on the pillars descending from the roof. Jump from one ledge to another using single jumps and then do a double jump extension to jump over the magic barrier from the last ledge _(c.f. blue path below)_. This is easier to execute if you triggered the alert to light up the room.
 
-// TODO Add paths image and videos
+![Prison escape path](Resources/Abyss_Prison.webp)
+
+> Possible paths to skip the barrier to escape prison. Here are the video examples for each path:
+> - [Purple path (easiest but slowest)](https://www.youtube.com/watch?v=_unusw_wgaA&t=1827s)
+> - [Blue path (hardest but fastest)](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1720s)
 
 After jumping over the magic barrier, take the teleporter. Go to the statue in front of you and Pray. As usual, fill your inventory with 5 purples crystals and leave the statue immediately, there is no need to upgrade Intelligence there, we'll do that at the last statue. You can then go either right or left to do the trials in the order your prefer, but I will explain them from right to left, so go right.
 
@@ -662,4 +687,12 @@ A video proof of your run is also required to submit a run on the leaderboard, y
 
 ## Credits and Links
 
+Useful links/softwares:
+- **[Nobeta Guides](https://github.com/Eveldee/Nobeta-Guides)**: A page that references a lot of guides, tools and links
 - **[NobetaTrainer](https://github.com/Eveldee/NobetaTrainer)**: A must-have to train and practice anything!
+- **[Vanessave](https://github.com/Eveldee/Vanessave)**: A Little Witch Nobeta save and settings editor
+- **[Autosplitter](https://github.com/ShinRunner1st/LWN-ASL)**: Auto Splitter for Little Witch Nobeta
+- **[Little Witch Nobeta Speedruns Discord](https://discord.gg/3FMeB4m)**: Community discord with a lot of information, resources and helpful members
+- **[Speedrun.com leaderboard](https://www.speedrun.com/little_witch_nobeta)**: Official Little Witch Nobeta speedrun leaderboard
+
+A lot of thanks to Shen ([@shengon]([shengon](https://www.twitch.tv/shengon))) for helping me to write and proofread the guide while also providing some useful video examples.

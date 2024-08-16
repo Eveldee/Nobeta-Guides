@@ -1,6 +1,4 @@
-# Nobeta Guides
-
-<!-- TODO Add title image -->
+![Title Nobeta Guides](Title.webp)
 
 > A collection of Little Witch Nobeta guides
 
