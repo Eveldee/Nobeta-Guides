@@ -393,7 +393,7 @@ Now you need to climb up to get Thunder, there are two possibilities. Either jum
 
 ### [Dawnruin Castle](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=974)
 
-Now that we have Thunder magic, the next step is to reach Dawnruin castle. After the loading screen, roll to stand up directly and follow the path until you reach the stairs. From there, use a purple crystal, shoot at the stone barrier crystal directly in front of you, then charged Thunder. Go down the stairs, aim your charged Thunder attack at the stone crystal on the right and then move towards the third stone crystal on the left. Jump, do two aerial melee attacks and then cast your charged Thunder.
+Now that we have Thunder magic, the next step is to reach Dawnruin castle. After the loading screen, roll to stand up directly and follow the path until you reach the stairs. From there, use a purple crystal, shoot at the stone barrier crystal directly in front of you, then charge Thunder. Go down the stairs, aim your charged Thunder attack at the stone crystal on the right and then move towards the third stone crystal on the left. Jump, do two aerial melee attacks and then cast your charged Thunder.
 
 While still in the air, prepare to run towards the next section. Continue past the big blue mana crystal by going on the left to dodge the sniper shot aimed at you. Stop running when you reach the crystal and then kill the blue enemy that just shot at you using a non-charged Thunder attack at his head (you may not have enough damage to kill him if you miss the headshot). Continue walking and pay attention to which enemy sniper targets you next, the first one to target you is the first one that will go out of his hiding spot. Prepare to headshot the first sniper that will show up, kill him and then start running again to the right while dodging the other shot. Jump on the left of the corner stone ledge of the platform on the right and then jump towards the next part from there using a double jump extension.
 
@@ -619,7 +619,7 @@ After killing the dolls, run towards the teleporter and use it. Swap to Fire dur
 
 For this trial, follow the corridor until you reach the stairs. Use a purple crystal and then kill the two enemies downstairs using non-charged Thunder attack headshots then charge Thunder.
 
-Go downstairs, you will see the boulder breaking if you timed it right. Go up the stairs and then jump behind you at the top to reach the last Thunder magic book chest. From this point on, you have Thunder lvl.4, meaning that you can no longer get hit by your own Thunder.
+Go downstairs, you will see the boulder breaking if you timed it right. Go up the stairs and then jump behind you on the right to reach the last Thunder magic book chest. From this point on, you have Thunder lvl.4, meaning that you can no longer get hit by your own Thunder.
 
 > [!NOTE]
 >
