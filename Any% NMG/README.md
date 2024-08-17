@@ -56,11 +56,11 @@ This guide is aimed at anyone who would be interested in trying to play in the A
 
 I highly recommend checking you the movements and combats videos that I made that complement this guide with useful general knowledge, meanwhile this guide focuses more on the route and the content of the run itself.
 
-- [Movements Guide](https://www.youtube.com/watch?v=3ewwr3Cm8EU&list=PLX-WkeHPvTEy8DhkUkb_UUJxz0aRXCtCf&index=1&t=52s&pp=gAQBiAQB)
-- [Combat Guide](https://www.youtube.com/watch?v=s0hwn3UjVCI&list=PLX-WkeHPvTEy8DhkUkb_UUJxz0aRXCtCf&index=2&t=20s&pp=gAQBiAQB)
+- [Movements Guide](https://www.youtube.com/watch?v=3ewwr3Cm8EU)
+- [Combat Guide](https://www.youtube.com/watch?v=s0hwn3UjVCI)
 
 I would also recommend to check the runs on *[speedrun.com](https://www.speedrun.com/little_witch_nobeta)* and to compare them even if they don't necessarily contain the latest techs and routes, sometimes it's easier to understand something with a video example.  
-I have also done a complete *[Any% NMG WR Analysis](https://www.youtube.com/watch?v=hlDkyTH6TiM&list=PLX-WkeHPvTEy8DhkUkb_UUJxz0aRXCtCf&index=3&t=6313s&pp=gAQBiAQB)* that explains everything that is right and wrong with the WR in this category *(as of the writing of this guide)*. I will often refer to this video since it is timestamped and provide examples for most of the latest discoveries.
+I have also done a complete *[Any% NMG WR Analysis](https://www.youtube.com/watch?v=hlDkyTH6TiM)* that explains everything that is right and wrong with the WR in this category *(as of the writing of this guide)*. I will often refer to this video since it is timestamped and provide examples for most of the latest discoveries.
 
 > [!NOTE]
 >
@@ -147,7 +147,7 @@ Go toward the next statue while paying attention to one enemy that can shoot at 
 Hit at least once the mana crystal using an aerial melee attack and trigger the cutscene. Skip the cutscene.  
 Start charging Arcane and wait to recover a bit of stamina. Once your stamina bar stops blinking red, jump to do two aerial melee attacks on the mana crystal. Jump again to do two more melee attacks. Shoot the charged Arcane when the barrier crystal is about to spawn and land on the ground to charge another Arcane. You then need to jump to do two more aerial melee attacks on the crystal but you need to wait for your arcane magic to be charged before that, otherwise the mana orbs won't spawn. Shoot the charged Arcane while still in the air and then run directly towards the next corridor after the two melee attacks. Shoot the last charged Arcane whenever it is ready. Skip the cutscene.
 
-> [Video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=87)
+> [Video example](https://www.youtube.com/watch?v=9vCcmfOvgX8&t=96s)
 
 Run towards the next cutscene, the colliders for cutscenes are rectangle so run in a straight line, no need to reposition in the middle of the corridor. Skip the cutscene.
 
@@ -391,7 +391,7 @@ At this statue, take 5 purple crystals and use the rest of your souls to upgrade
 
 Now you need to climb up to get Thunder, there are two possibilities. Either jump on the platform and follow the stairs until you reach the top to then jump towards thunder. Or, jump on the stairs and then reach the stone ledge in front from there, jump on the right on the small arch and then jump on the platform where the chest containing Thunder is. This second method is way harder to perform and is a minimal time save (~1.2 sec), only use it if you feel confident enough. After picking Thunder, open the pause menu and Return to Statue.
 
-### [Dawnruin Castle](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=974)
+### [Dawnruin Castle](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1054)
 
 Now that we have Thunder magic, the next step is to reach Dawnruin castle. After the loading screen, roll to stand up directly and follow the path until you reach the stairs. From there, use a purple crystal, shoot at the stone barrier crystal directly in front of you, then charge Thunder. Go down the stairs, aim your charged Thunder attack at the stone crystal on the right and then move towards the third stone crystal on the left. Jump, do two aerial melee attacks and then cast your charged Thunder.
 
@@ -688,7 +688,7 @@ A video proof of your run is also required to submit a run on the leaderboard, y
 ## Credits and Links
 
 Useful links/softwares:
-- **[Nobeta Guides](https://github.com/Eveldee/Nobeta-Guides)**: A page that references a lot of guides, tools and links
+- **[Nobeta Guides](https://nobeta.ilysix.fr)**: A page that references a lot of guides, tools and links
 - **[NobetaTrainer](https://github.com/Eveldee/NobetaTrainer)**: A must-have to train and practice anything!
 - **[Vanessave](https://github.com/Eveldee/Vanessave)**: A Little Witch Nobeta save and settings editor
 - **[Autosplitter](https://github.com/ShinRunner1st/LWN-ASL)**: Auto Splitter for Little Witch Nobeta
