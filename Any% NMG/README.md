@@ -151,7 +151,7 @@ Start charging Arcane and wait to recover a bit of stamina. Once your stamina ba
 
 Run towards the next cutscene, the colliders for cutscenes are rectangle so run in a straight line, no need to reposition in the middle of the corridor. Skip the cutscene.
 
-This part can be quite tricky and the placement of the enemies is chosen randomly from a few predetermined patterns so sometimes things don't go well. The gist of this fight is to get the aggro of the two enemies that are attacking the cat, kill the two enemies on the right using headshots, break the jars that contain mana orbs and then finish all the others using a charged Arcane. Using a cursor indicator at the center of your screen will help greatly for this part, see [Cursor Indicator](#cursor-indicator) for more information.
+This part can be quite tricky and the placement of the enemies is chosen randomly from a few predetermined patterns so sometimes things don't go well. The gist of this fight is to get the aggro of the two enemies that are attacking the cat, kill the two enemies on the right using headshots, break the jars that contain mana orbs and then finish all the others using a charged Arcane. Using a cursor indicator at the center of your screen will help greatly for this part, see [Cursor Indicator](#cursor-indicatorcrosshair) for more information.
 
 > [Video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=111)
 
