@@ -140,6 +140,10 @@ Skip the cutscene after destroying the crystal. Now it is best to get the bag ex
 
 To open the chest, the fastest way is to open if using the aerial attack that you used to reach this platform. This advanced technique is quite hard to do and not recommended at first. The other standard way is to open the chest using a normal melee attack on the ground and to cancel its animation by shooting a single arcane projectile. This is faster than waiting for the melee animation to end.
 
+> [!TIP]
+>
+> There is an even faster and more efficient way to do this that is also a bit harder to perform. You can [see a clip of it here](https://youtu.be/_PELkRQUx9U) _(Thanks to Muki for finding and sharing this)_.
+
 Before running again and going down after collecting the bag expansion, be sure to have enough stamina to reach the next cutscene, which requires at least around 60% stamina. Do not jump over the platform, this will waste stamina, instead let yourself fall down.
 
 Go toward the next statue while paying attention to one enemy that can shoot at you, either strafe on a side to dodge (you can use the sound cue to know when to sidestep) or shoot at him to cancel his attack. Go left to go downstairs and run till you reach the big blue mana crystal.
@@ -292,6 +296,10 @@ Start by activated the crystal ride, charge Ice and use two times two aerial mel
 
 At this statue you want to take at least 2 or 3 purple crystals and if you have enough souls go for Intelligence 16. After leaving the statue, jump over the lava to the right and follow the path. Shoot as early as possible at the big doll using non-charged Ice magic to make her start an attack. In most cases you will be able to dodge her attack by just running past her, otherwise you will have to dodge. Climb up the stairs and trigger the cutscene to the next boss. Skip the cutscene.
 
+> [!TIP]
+>
+> There is a new way to pass past the doll that is both easier and faster. Instead of taking the doll aggro by shooting Ice at her, cut the corners and shoot one Arcane projectile behind her to make her turn around, then just pass past her before she turns back. You can [see a clip of it here](https://youtu.be/z_UziI82i30) _(Thanks to Muki for finding and sharing this)_.
+
 ### [Bear](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=752)
 
 This boss fight is similar to Tania, parry as many attacks as possible to use more charged Ice attacks. Use non-charged Ice attacks whenever possible between the Bear attacks. A lot of patterns allow to cast two charged Ice attacks and the Bear tends to attack more so this fight is way less random than the one against Tania.
@@ -374,6 +382,10 @@ Here you have two choices, the first one is to jump on the stone ledges on the b
 > [Hat Skip](https://www.youtube.com/watch?v=_unusw_wgaA&t=981s)
 
 > [Hat Skip Skip](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=950s)
+
+> [!TIP]
+>
+> There is possibly an even faster method by using a death abuse to skip the cutscene entirely and returning back to the statue just next to the following cutscene. It seems to save up to 1 second of time but it has not been tested in a run yet so use it at your own discretion! You can [see a clip of it here](https://youtu.be/nvn0RKusnfs) _(Thanks to Muki for finding and sharing this)_.
 
 ### [Thunder Magic](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=974)
 
