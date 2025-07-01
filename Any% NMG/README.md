@@ -40,9 +40,9 @@
   - [Vanessa 2](#vanessa-2)
 - [Abyss](#abyss)
   - [Path to the trials](#path-to-the-trials)
-  - [First Trial (Lava Ruins)](#first-trial-lava-ruins)
+  - [First Trial (Underground)](#first-trial-underground)
   - [Second Trial (Dawnruin Castle)](#second-trial-dawnruin-castle)
-  - [Third Trial (Underground)](#third-trial-underground)
+  - [Third Trial (Lava Ruins)](#third-trial-lava-ruins)
   - [Nonota](#nonota)
 - [Livesplit and record setup](#livesplit-and-record-setup)
 - [Credits and Links](#credits-and-links)
@@ -126,7 +126,11 @@ One enemy will launch a projectiles at you, either shoot at him to cancel/kill h
 
 Once you reach this point, you can stop running to recover some stamina but continue moving forward by entering the next corridor. You won't get hit by the lightning traps if you're not running (which you can't do anyway since you need to regenerate stamina). Start running again when you get close to 75% stamina, you can wait for a bit more if it feels easier to you.
 
-Go to the right at end of the corridor, do the two jumps on the platforms and reach the crystal that maintains the magic barrier. The easiest way to destroy this crystal is to jump, do two aerial melee attacks, do an arcane shot and then do a triple melee attacks on the ground followed by another single shot.  
+Go to the right at end of the corridor, do the two jumps on the platforms and reach the crystal that maintains the magic barrier. The easiest way to destroy this crystal is to jump, do two aerial melee attacks, do an arcane shot and then do a triple melee attacks on the ground followed by another single shot.
+
+> [!NOTE]
+>
+> It is required to kill at least two enemies if going for the Arcane 2 skip route to have enough mana for upgrades later on at Tania. I prefer to kill the one downstairs before the lightning trap and the one on the two platforms before the crystal. Of course you can adapt to your preferences, just don't forget that kill the enemies near the crystal has no use because they will die during when destroying the crystal in any case!
 
 ### [Rescue Cat](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=61)
 
@@ -144,7 +148,7 @@ To open the chest, the fastest way is to open if using the aerial attack that yo
 >
 > There is an even faster and more efficient way to do this that is also a bit harder to perform. You can [see a clip of it here](https://youtu.be/_PELkRQUx9U) _(Thanks to Muki for finding and sharing this)_.
 
-Before running again and going down after collecting the bag expansion, be sure to have enough stamina to reach the next cutscene, which requires at least around 60% stamina. Do not jump over the platform, this will waste stamina, instead let yourself fall down.
+After collecting the bad expansion, do not jump over the platform, this will waste stamina, instead let yourself fall down. Try to damage the enemy that shoots projectile down below while going down and deal the remaining required damage after touching the ground. Ideally you would regenerate some stamina while doing so to not waste time.
 
 Go toward the next statue while paying attention to one enemy that can shoot at you, either strafe on a side to dodge (you can use the sound cue to know when to sidestep) or shoot at him to cancel his attack. Go left to go downstairs and run till you reach the big blue mana crystal.
 
@@ -193,7 +197,11 @@ Congratulations, you already completed one of the six levels of the game!
 
 ## Underground Cave
 
-This is the second level of the game, the objective in this level is to get the Wind, Arcane and Ice magic books before proceeding to the boss. There is still no fast way to kill enemies and they don't give a lot of souls so killing them is not a priority.
+This is the second level of the game, the objective in this level is to get the Wind, *Arcane (can be skipped)* and Ice magic books before proceeding to the boss. There is still no fast way to kill enemies and they don't give a lot of souls so killing them is not a priority.
+
+> [!IMPORTANT]
+>
+> The route in Underground Cave and Lava Ruins are a bit different if you go for the Arcane 2 skip. It saves a lot of time in total but it is also way harder than the regular route. I will write the original route and add similar notes whenever something should be made different for Arcane 2 skip route.
 
 ### [Ice Magic](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=212)
 
@@ -206,7 +214,16 @@ After the loading screen, start running directly without waiting for the screen 
 
 > Shortcut to the falling rocks by jumping over the small obstacle on the left
 
+> [!TIP]
+>
+> Muki found a faster way than going up the stairs after destroying the rock wall by climbing on the right side. You can find [a video of it there](https://youtu.be/SBDBd1IsGO8?si=J0l9-lDZYw4Zh_OO&t=252)
+
 Just after the last wooden platform, go to the left and do a double jump extension `jump > double aerial melee attack > jump > double aerial melee attack > stop sprint` to reach the chest for Arcane magic. If you are low on stamina at the wooden platform, stop running and wait to recover a bit to avoid falling down before the jump (would be quite unfortunate). Destroy the two dolls to get a few souls, open the chest, pick up the Arcane magic book and either go around left or right while recovering stamina _(~80%)_. This part can be quite tricky and going left or right is equivalent in difficulty. The goal is to fall down and pick up the Ice magic book in the chest, but, there are a lot of enemies that can hit you while you're picking the book, cancelling the pickup animation. The two enemies on the ledge above can shoot projectiles at you and are the most likely to cancel you. They will first lock onto you when you are falling down and then wait a bit before shooting. This means that there are two possibilities, either pickup the book before they shoot at you, or wait, dodge both projectiles and then pickup the book. Find you own timing by training it multiple times and stick with it, consistency is key for this segment.
+
+> [!IMPORTANT]
+>
+> **Arcane 2 skip:** If you are going for the Arcane 2 skip route, you can jump down directly to the Ice magic chest but make sure to break the doll near the Arcane magic chest to get some souls for upgrades later. A video shows it better than any word could: [check the example there](https://youtu.be/SBDBd1IsGO8?si=0aaAhSxo4b3MvysY&t=259).  
+> One downside of this route is that it is not easy at all to reach Ice magic using this route without getting hit by the enemies. A lot of different paths work, the one I use may not be easy to do if you don't have high camera sensibility to do the 180 and forget to redirect while in the air. Try to find one that works best for you.
 
 ### [Tania Start](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=283)
 
@@ -229,6 +246,10 @@ Skip the cutscene. After the cutscene, wait for the cat to move _(to avoid talki
 > Stats before leaving the statue
 
 Jump directly over the fence in front, then take either left or right at the circular corridor. Stick to the inner wall to optimize your trajectory. Trigger the cutscene, skip it. Run backward (or turn around), jump and hit the mana crystal twice, jump again and hit it only once. Start charging Ice magic while walking towards the flames, start running again when reaching max stamina. Try to save as much stamina as possible while going up the stairs. Break the crystal by using a triple melee attack combo on the ground. Skip the cutscene.
+
+> [!TIP]
+>
+> A small time save was found in this room to climb to the crystal by jumping through the room instead of going up the stairs. It saves a few seconds but will require you to manage your stamina more precisely to do the barrier skip just after. [Here is a video example of it](https://youtu.be/SBDBd1IsGO8?si=agBtubcKGP29YApC&t=339)
 
 Wait to reach around 80% stamina, jump on the pedestal and double jump then extension to reach the platform in front. Continue in a straight line until the stairs. Here you have two choices: either kill the enemies downstairs to disable the magic barrier or try the barrier skip. I will only explain the barrier skip here.  
 For the barrier skip, you will need to jump onto the arches on the sides (left or right, there's no difference). What I like to do is jump directly over the corner stone support half down the stairs and then jump onto the right arch. Then I double jump of the arch followed by the two aerial attacks directly, all this while moving a bit on the left without moving the camera.
@@ -278,10 +299,14 @@ The second method is to jump onto the rocks wall on the right by doing a double 
 
 When entering the next room, climb up the first stairs and kill the flying enemy then continue to go upstairs while breaking the two jars on the right. Destroy the wood floor by shooting Ice magic projectiles at it, start charging Arcane and fall down (do an aerial melee attack just before touching the ground to avoid the recovery animation). A big doll will spawn, shoot charged Arcane magic twice at it since you should have Arcane lvl.2 at this point, charge another one Arcane by using melee attacks against the big doll. Use it against the doll and then finish her off using non-charged Arcane or Ice magic. Wait for the barrier to disappear, follow the corridor (the one without a stone crystal), then go to the right at the next intersection and continue forward until you trigger the next cutscene. Skip it.
 
+> [!IMPORTANT]
+>
+> **Arcane 2 skip:** This is another tricky path if going for the Arcane 2 skip route. The issue there is that killing the big doll after this section requires a lot of mana if using Ice instead of Arcane. To compensate for that, the best is to break the two barrels just to the right of the first blue arrow in the cross intersection room schema. Then when going down to the doll the best is to "trick" the boss by landing on top of an arch to avoid her moving or attacking. This makes it perfect to cast charged ice magic and make sure she's taking all the damage of it (she usually dodges the projectiles if not using this trick). Then you can confirm the kill by just shooting normal ice attacks at her head. [Here is a video example of the full section](https://youtu.be/SBDBd1IsGO8?si=98StWLGCCTd9fY0B&t=504)
+
 Now we're going to get Fire magic. Follow the path on the left and kill the doll on the ground that is waking up using non-charged Ice magic. Break the two jars on the right and start charging Ice magic. Hit the doll you just killed using two or three melee attacks to charge faster. Go down the stairs towards the Fire magic book chest while trying to lock onto the flying enemy and the two enemies around the blue mana crystal. Kill any of them using non-charged Ice magic if you couldn't lock onto them. Go to the chest, open it, pickup Fire magic. Turn around, kill the enemy that just appeared in front of you using non-charged Ice magic. Swap to Fire magic, hit the big mana crystal twice using aerial melee attacks, go to the right up the stairs and start charging Fire magic. Lock onto the enemy in front of you and then trigger the magic barrier by walking to the left and start recovering your stamina while walking towards the stone crystal that is going to appear. Bait the big enemy attack and then run towards the stone crystal to destroy it using aerial Fire melee attacks. Shoot the charged Fire attack directly after destroying the crystal, killing the big enemy behind you.
 
 > [!NOTE]
-> There is a new method to do this room which is a bit faster and exploit the fact that the collider to trigger the magic barrier goes below the floor and is thus accessible from below. Here is [a video example of it](https://clips.twitch.tv/SmoothPatientEndiveLeeroyJenkins-6CjIPgNpMKKrjVok). I won't explain this one in details since it is quite hard to do and has not been used in a run as of now.
+> There is a new method to do this room which is a bit faster and exploit the fact that the collider to trigger the magic barrier goes below the floor and is thus accessible from below. Here is [a video example of it](https://clips.twitch.tv/SmoothPatientEndiveLeeroyJenkins-6CjIPgNpMKKrjVok). This is a bit more complex than going the usual path but it does save a lot of time so it is the recommend route if you're trying to be the fastest possible.
 
 ### [Bear Start](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=637)
 
@@ -385,7 +410,7 @@ Here you have two choices, the first one is to jump on the stone ledges on the b
 
 > [!TIP]
 >
-> There is possibly an even faster method by using a death abuse to skip the cutscene entirely and returning back to the statue just next to the following cutscene. It seems to save up to 1 second of time but it has not been tested in a run yet so use it at your own discretion! You can [see a clip of it here](https://youtu.be/nvn0RKusnfs) _(Thanks to Muki for finding and sharing this)_.
+> There is an even faster method by using a death abuse to skip the cutscene entirely and returning back to the statue just next to the following cutscene. It saves around 1-2 seconds of time and is used in any recent runs. You can [see a nearly perfect hat skip segment with it there](https://youtu.be/SBDBd1IsGO8?si=BoiCvuvXGyeoKG1Y&t=911) _(Thanks to Muki for finding and sharing this)_.
 
 ### [Thunder Magic](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=974)
 
@@ -407,6 +432,10 @@ Now you need to climb up to get Thunder, there are two possibilities. Either jum
 
 Now that we have Thunder magic, the next step is to reach Dawnruin castle. After the loading screen, roll to stand up directly and follow the path until you reach the stairs. From there, use a purple crystal, shoot at the stone barrier crystal directly in front of you, then charge Thunder. Go down the stairs, aim your charged Thunder attack at the stone crystal on the right and then move towards the third stone crystal on the left. Jump, do two aerial melee attacks and then cast your charged Thunder.
 
+> [!TIP]
+>
+> Mian found a more optimal way to do this thunder trial room by destroying two crystals using normal thunder attacks and the last one using either thunder or fire. There are a lot of different variations for this one, try it out and adapt it to your own preferences! You can still check the [video example of it](https://www.youtube.com/watch?v=2mJO0SUIyWI)
+
 While still in the air, prepare to run towards the next section. Continue past the big blue mana crystal by going on the left to dodge the sniper shot aimed at you. Stop running when you reach the crystal and then kill the blue enemy that just shot at you using a non-charged Thunder attack at his head (you may not have enough damage to kill him if you miss the headshot). Continue walking and pay attention to which enemy sniper targets you next, the first one to target you is the first one that will go out of his hiding spot. Prepare to headshot the first sniper that will show up, kill him and then start running again to the right while dodging the other shot. Jump on the left of the corner stone ledge of the platform on the right and then jump towards the next part from there using a double jump extension.
 
 > [!NOTE]
@@ -415,11 +444,19 @@ While still in the air, prepare to run towards the next section. Continue past t
 
 Continue to run until the stairs, from there you can jump onto an arch on the right to climb the next stairs faster. Go up the stairs until you're close to the top, turn around and jump on the platform in front. Walk to recover some stamina. During this time, you can kill the sniper in front of you, continue to walk a bit and then kill another sniper on the right (he will do repeated movements from left to right in the same spot). When you have recovered your stamina, go back to running towards the last part. Jump over the trap pressure plate after the circular room, and continue upstairs. If a sniper aims at you there, sidestep to dodge. Try to optimize your stamina to reach the cutscene before running out of it, bonus point if you can trigger the cutscene using the trip animation.
 
+> [!Tip]
+>
+> There is an alternative path instead of climbing the stairs on the right by using a ledge in front to directly jump up. It is a bit risky and saves only around a second and a half. Melon is known for being quite good at it with optimal stamina usage, [here is a video example of him doing it](https://www.youtube.com/watch?v=0qdisBSxj8c)
+
 Skip the triple cutscene.
 
 ### [Vanessa Start](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1142)
 
 After the cutscenes, run past the statue, go up the stairs and follow the corridor on the left. Run until you're in melee range of the first sniper in the room, headshot him. Run towards the stairs on the right, shoot the sniper on the right while running and stop at the stair landing. Go up the stairs while walking to recover your stamina, then jump to the left after reaching around 70% of stamina. Run towards the next stairs go up while sidestepping to dodge the different attacks that may come to you. Run towards Vanessa to trigger a cutscene.
+
+> [!Tip]
+>
+> An alternative path for the castle part to Vanessa is to just skip the enemies if you don't need the souls. That works perfectly if you can manage Nonota with lower Intelligence stats. You can see the full section [there](https://youtu.be/SBDBd1IsGO8?si=iM_r_GWqFLgsRSrF&t=1099)
 
 ### [Vanessa](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1194)
 
@@ -452,9 +489,14 @@ Start by skipping the first cutscene.
 
 Follow the path to the right of the statue until you get close to the middle of the next area with enemies. Stop running to recover a bit of stamina _(~70%)_ and kill the farthest enemy in the middle behind the barrel. Climb on the arches by either jumping on the crystal on the right _(c.f. blue path in the image below)_ or by jumping on the barrel _(c.f. purple path in the image below)_. Jump towards the next stairs and go upstairs while breaking the crystals. Break the crystals at the top of the stairs and charge Thunder using all the mana orbs that spawned. Then go either left to climb normally or use the crystal directly on the left to jump on the ledges on the right wall. Make sure to not get hit by the purple archer enemy.
 
-![Spirit Realm Barrel jump](Resources/Spirit_Barrel.webp)
+> [!TIP]
+>
+> It is also possible to reach the stairs in one go without having to regenerate stamina by following one of the two new path in orange. Both of them only require two double jumps so the stamina usage is the same, use the one that you prefer.
 
-> Possible paths to climb the arches. Start on top of the crystal for the blue path or on top of the barrel for the purple path.
+
+![Spirit Realm Barrel jump](Resources/Spirit_Barrel_New.webp)
+
+> Possible paths to climb the arches. Start on top of the crystal for the blue and orange paths or on top of the barrel for the purple path.
 
 When at the top, cast thunder in the pack of crystals and recover your stamina. When full on stamina, jump onto the crystal in front of you. From there, jump towards the side of the small floating island and then climb the side until you reach the top. From there, you want to jump onto the stone fence on your right, then on one of the two pillars (you can use an aerial melee attack to make this jump easier), and from there reach the platform with the two crystals. Get on top of the crystals and jump to the right. Recover your stamina completely and then follow the stairs upward, climb on the crystal directly on your left, and get onto the last platform on your left from there. Finally, follow the stairs path until you reach the statue, make sure to dodge the enemies that dash at you by sidestepping or simply kill them, otherwise they may cancel you when trying to Pray to the statue. This section can be a bit confusing so refer to the [video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1297). 
 
@@ -462,7 +504,15 @@ When at the top, cast thunder in the pack of crystals and recover your stamina. 
 
 > Path to seal statue, start on top of the crystal
 
+> [!TIP]
+>
+> There is enough mana to fully charge a Thunder attack before this section which allows you to make Nobeta go faster. This of course makes those already hard jumps even more trickier but it saves a decent amount of time (especially since you regenerate stamina faster under charged Thunder effect). [Here is a video example of the full section](https://youtu.be/oErGxjDoDf4) with charged Thunder and upcoming Arcane jump trick
+
 Fill your inventory with purple crystals and use the rest of your souls to upgrade the Intelligence stat. The fight against Seal 1 and 2 varies a bit depending on your Intelligence level but there are no strict requirements. Leave the statue, run and jump over the fence while heading to the right. Use a double jump extension to reach a ledge on the right side of the wall in front. Single jump onto the next ledge and then reach the top of two arches using a double jump extension (there is an invisible collider there that you can walk onto). From the second arch, climb on the small floating island. Go to the left and destroy the breakable wall, then follow the path of this wall to get to your second Thunder book.
+
+> [!TIP]
+>
+> There is a faster way to reach the Thunder magic chest by using an Arcane magic cast to extend your jump and reach the top directly from the statue. The NMG rules have been adjusted to allow for those types of tricks so feel free to try it out even in this category! [Here is a video example of it](https://youtu.be/PHzpr0hI9rU)
 
 Recover your stamina and prepare to jump on the left of the stairs next to the chest. With at least 50% stamina, jump along the wall and start doing a single jump extension (keep your second jump). There is an invisible wall to get past, it extends past the small floating island on the right. When past the invisible wall, use your second jump to redirect your jump to the right and pass below the arch in front. Jump again to reach the last corner ledge of the building in front. Do a double jump extension to reach the Seal fight arena. Again, this section can be quite confusing so refer to the [video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1346). Trigger the cutscene, skip it.
 
@@ -555,13 +605,17 @@ After the cutscene:
 
 > [!IMPORTANT]
 >
-> You will need to adjust the damage you deal to Seal 2 depending on your Intelligence level. You can adjust your damage by doing more or less non-charged Thunder attacks between the charged attacks or by intentionally casting the charged Thunders off position to deal less damage with them.
+> You will need to adjust the damage you deal to Seal 2 depending on your Intelligence level. You can adjust your damage by doing more or less non-charged Thunder attacks between the charged attacks or by intentionally casting the charged Thunders off position to deal less damage with them. If running with the new lower Intelligence level 19 route, you need to max out your damage so be careful to cast your charged Thunder attacks correctly!
 
 ### [Vanessa 2 Start](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1494)
 
 After killing the Seal for a second time, run towards the stairs on the left. Recover your stamina while going up the stairs. At the top of the stairs, turn around, start running to get momentum and then jump over the stone fence on the left. Here you will have to do the longest jump extension in the run. The objective is to land onto the arches far down. This jump extension is explained in details in the [Movements Guide video](https://www.youtube.com/watch?v=3ewwr3Cm8EU&t=274s). It is also a good place to train your jump extensions.
 
 Once on the arches, jump towards the platform in front of you. From there climb onto the big crystal and jump onto the floating island using a double jump extension. Recover your stamina. Follow the path, break a few crystals on the way and go up the stairs. Kill the blue floating ball enemy at the top of the last set of stairs, break the crystals nearby and charge Fire. With Fire charged, go as close as possible to the barrier and hit the stone crystal behind it using the first aerial melee attack (the second one does not having enough range, let yourself fall to the ground after the first attack). Do this three times to break the crystal.
+
+> [!TIP]
+>
+> This is another section that got heavily optimized by adding charged Thunder magic time speed effect and by using an additional jump extension from it. The fire charging and path to the crystal were also optimized and contains a new way to break the crystal to make sure the flying enemy dies properly. [A video explains it way better than any word could](https://youtu.be/SBDBd1IsGO8?si=hoMdzmSITGa44uHI&t=1437)
 
 Skip the cutscene, jump down to the left and take the teleporter. After the teleporter animation, jump onto the ledge of the pillar on the left, then onto the first arch. From there jump onto the next arch in front and then on the land on the left. Follow the path past the chest, break the wall at the top of the stairs and continue until you reach the next statue.
 
@@ -590,12 +644,9 @@ The fight goes as follow:
 
 Skip the cutscene after killing Vanessa 2, leading to the last level of the game: Abyss.
 
-> [!NOTE]
+> [!TIP]
 >
-> Before going into Abyss, here are some new routes for Spirit Realm that were found recently. Those are not used in the world record run since they were find after the run and nobody had the time to test them in-depth yet, use them at your own discretion.
-> - [Post Seal 2 charged thunder](https://clips.twitch.tv/KathishJazzyTigerKAPOW-R1UCViqHE4S8aIz4)
-> - [Post Seal 2 self damage barrier tech](https://www.youtube.com/watch?v=pgUGiwXEU_A)
-> - [New Vanessa 2 fight](https://clips.twitch.tv/ResoluteConcernedDolphinRalpherZ-UiMVYHrIDUVnpNQC)
+> There is a new, more consistent, but more complex way to do the Vanessa 2 fight by using correctly timed purple crystals to force the long stagger on Vanessa 2. The key point of this new tech found by Muki is to delay the second charged thunder attack to make sure Vanessa 2 gets staggered for a long time (you can see the difference between long and short stagger by checking at her sword, for the short stagger she's "blocking" the attack by putting her sword in front of her). You can find a [video example of it there](https://youtu.be/SBDBd1IsGO8?si=utaIaHt91o0GUSTT&t=1551)
 
 ## Abyss
 
@@ -603,7 +654,7 @@ Skip the cutscene after killing Vanessa 2, leading to the last level of the game
 
 This is the last level of this game and thankfully it is quite easy. Take your time to catch your breathe for the last boss fight!
 
-Start by skipping the cutscene after the loading screen. Go down from the side directly to touch the ground below as soon as possible _(you can aim here to redirect yourself while in the air to optimize your speed)_. Here we need to charge Thunder but we don't have any purple crystal left. To achieve this, it is required to break the non-enemy dolls on the ground and the crystals next to the teleporter. Break them while running towards the crystal, charge Thunder and then enter the teleporter. It is required to charge Thunder here to not get cancelled by the enemies during the teleport animation.
+Start by skipping the cutscene after the loading screen. Then pause and return to statue to be teleported directly below to save about a second. Here we need to charge Thunder but we don't have any purple crystal left. To achieve this, it is required to break the non-enemy dolls on the ground and the crystals next to the teleporter. Break them while running towards the crystal, charge Thunder and then enter the teleporter. It is required to charge Thunder here to not get cancelled by the enemies during the teleport animation.
 
 After being teleported into the prison, break the jars on the left and activate the lever. Go into the next room, break the barrel and walk under the light source, this will trigger an alert. You may think that triggering the alert is a bad idea because it will spawn some enemies, which is right, but it also lights up the whole area, making the next platforming section way easier.  
 Continue to follow the path until you pass past the big enemy with arms and enter the next room _(which you may recognize as it is the room where you saved the cat at the beginning of the game)_. From there you have two different paths to skip the next magic barrier.
@@ -617,44 +668,33 @@ The second jump uses the small crystal in front to get enough height to reach th
 > - [Purple path (easiest but slowest)](https://www.youtube.com/watch?v=_unusw_wgaA&t=1827s)
 > - [Blue path (hardest but fastest)](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1720s)
 
-After jumping over the magic barrier, take the teleporter. Go to the statue in front of you and Pray. As usual, fill your inventory with 5 purples crystals and leave the statue immediately, there is no need to upgrade Intelligence there, we'll do that at the last statue. You can then go either right or left to do the trials in the order your prefer, but I will explain them from right to left, so go right.
+After jumping over the magic barrier, take the teleporter. Go to the statue in front of you and Pray. As usual, fill your inventory with 5 purples crystals and leave the statue immediately, there is no need to upgrade Intelligence there, we'll do that at the last statue (if going for more than Intelligence 19). The route has been improved (thanks to a trick Muki found) and it is now faster to do the trials for left to right. So go left to reach the first trial.
 
-### [First Trial (Lava Ruins)](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1769)
+### [First Trial (Underground)](https://youtu.be/SBDBd1IsGO8?t=1706)
 
-This trial is quite straightforward. Follow the path downstairs, run until the lava pit. Before jumping over the lava, kill the first enemy directly on the left to avoid being cancelled later on. Jump over the lava and activate the lever on the right (break the jar in front of it first). Skip the cutscene (the timing for this is a bit after Nobeta's foot touch the ground).
+For the last trial, start by breaking the wall in front of you using Fire or Thunder, then do a running melee attack to break the jars. Cancel the animation by evading forward and then run towards the rock wall in front. Wait a bit then charge Thunder (if you charge Thunder too early, the wall will take more time to open). You can regenerate a tiny bit of stamina while waiting to avoid having to regenerate some later.
 
-Use a purple crystal and then charge thunder. Go down then to the left too the next room. Jump down either right or left and land on a pillar or on a fence (you can also land directly on the fire if you can aim fast). From your safe spot, cast your charged Thunder between the two dolls to kill them both at the same time, making the fire disappear. It is also possible to aim and cast the Thunder while still in the air, which is a bit faster, but I wouldn't recommend it since failing to kill the dolls put an end to your run.
+Go down the path when it opens. When reaching the open cave, continue to the left by jumping onto the different platforms. Finally, jump onto a rock pillar in front of the barrier and use the trip animation to pass through the barrier ([video example](https://youtu.be/SBDBd1IsGO8?si=9MNTCI58hCaMmiyP&t=1729)). Evade to stand up faster then take the teleporter and swap to Fire.
 
-After killing the dolls, run towards the teleporter and use it. Swap to Fire during the animation. When arriving on top of the trial, shoot the crystals on the left while running towards them. Charge Fire when close to the mana orbs and use two aerial melee attacks to destroy the stone crystal. From there, do a jump extension to the right to reach the next trial teleporter.
+After the teleportation animation, shoot at the crystals on the right, get close to them, charge Fire and then break the stone crystal. Skip the cutscene. Go towards the second teleporter on the left by doing a jump extension.
 
-### [Second Trial (Dawnruin Castle)](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1844)
+### [Second Trial (Dawnruin Castle)](https://youtu.be/SBDBd1IsGO8?t=1766)
 
-For this trial, follow the corridor until you reach the stairs. Use a purple crystal and then kill the two enemies downstairs using non-charged Thunder attack headshots then charge Thunder.
-
-Go downstairs, you will see the boulder breaking if you timed it right. Go up the stairs and then jump behind you on the right to reach the last Thunder magic book chest. From this point on, you have Thunder lvl.4, meaning that you can no longer get hit by your own Thunder.
-
-> [!NOTE]
->
-> I just found out while writing this guide that it is possible to skip the first boulder entirely. To do that you need to charge Thunder at the start of the trial (while walking to make sure to not trigger the boulder spawn collider!) and then run directly upstairs. Here is a [video example](https://www.youtube.com/watch?v=tJINMnAzsKM). As always, this has not been tested in a run yet, use at your own discretion.
+For this trial, start by charging Thunder magic by using a purple crystal and rush up the stairs to skip the boulder rolling down the stairs. When the boulder breaks when you get close to it up the stairs, turn around and jump towards the chest containing the next Thunder magic upgrade to get Thunder lvl. 4. From this point on, you have Thunder lvl.4, meaning that you can no longer get hit by your own Thunder.
 
 After getting Thunder lvl.4, go down into the room of the next enemy. Break the crystals on your way to spawn mana orbs and charge Thunder. With Thunder charged, go into the end of the room to spawn the special doll, use a purple, go next to the doll and cast Thunder on yourself. Charge Thunder again and repeat till the doll dies.
 
-Go towards the next teleporter, use it and swap to Fire. Same as before, shoot at the crystals, get close to them, charge Fire and then break the stone crystal. Jump down to the next trial on the right. Use the teleporter.
+Go towards the next teleporter, use it and swap to Fire. Same as before, shoot at the crystals, get close to them, charge Fire and then break the stone crystal. Jump down to the last trial on the left. Use the teleporter.
 
-### [Third Trial (Underground)](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1929)
+### [Third Trial (Lava Ruins)](https://youtu.be/SBDBd1IsGO8?t=1847)
 
-For the last trial, start by breaking the wall in front of you using Fire or Thunder, then do a running melee attack to break the jars. Cancel the animation by evading forward and then run towards the rock wall in front. Wait a bit then charge Thunder (if you charge Thunder too early, the wall will take more time to open).
+This trial has gotten really simple thanks to techs found by both me (Eveldee) and Muki. Start by using a purple crystal to charge Thunder. Go directly towards the open room with the lava and fall down into the lava ot the right (without jumping) and use your second jump just before touching it to get as close as possible to the wall in front. If done correctly, you will fall through the lava without taking any damage and skip the need to use the lever to make the lava level go down.
 
-Go down the path when it opens. When reaching the open cave, cast thunder to recover some stamina and kill a few enemies and then follow the path to the left to reach the magic barrier. Jump onto a rock pillar in front of the barrier and use the trip animation to pass through the barrier ([video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=1955)). Evade to stand up faster then take the teleporter and swap to Fire.
+Continue in front of you and then jump down on the left or on the right (depending on your preference, it's a perfectly symmetric room) and cast the charged Thunder magic on the two dolls down below to kill them. If you did the trials from left to right, you should have Thunder lvl. 4 there so you won't be taking any damage even if you cast the charged attack on yourself.
 
-For the third time, shoot at the crystals, get close to them, charge Fire and then break the stone crystal. Skip the cutscene. Go towards the last teleporter, use it and then skip the cutscene. Go down and Pray to the statue (use an aerial attack before touching ground to avoid the "fall damage"), take 5 purple crystals and upgrade Intelligence as much as possible using your remaining souls.
+After killing the dolls, run towards the teleporter and use it. Swap to Fire during the animation. When arriving on top of the trial, shoot the crystals on the right while running towards them. Charge Fire when close to the mana orbs and use two aerial melee attacks to destroy the stone crystal. Skip the cutscene.
 
-Leave the statue and follow the path to the last boss of the game, Nonota. trigger the cutscene and skip it.
-
-> [!NOTE]
->
-> There is a new tech that can saves a bit of time at the end of the third trial. It has not been used in a run yet but if you want to try it, here is a [video example](https://clips.twitch.tv/CrepuscularStupidTigerBatChest-Lcx60fBGa7aexIVK) of the tech in question.
-
+After skipping the cutscene, a nice trick to save time is to break the crystals on the left while going down, charge Thunder when getting close to the teleporter to Nonota. Since Thunder time slow effect is active, you will have enough time to interact with the statue down below, buy 5 purple crystals (and upgrade Intelligence if not using the Intelligence lvl. 19 route). After buying everything you need, return to the statue and then go to Nonota ([video example](https://youtu.be/SBDBd1IsGO8?si=yTpORDYw7Wg90gl3&t=1887)).
 
 ### [Nonota](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=2039)
 
