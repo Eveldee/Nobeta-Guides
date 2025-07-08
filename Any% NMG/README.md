@@ -52,19 +52,19 @@
 This guide is aimed at anyone who would be interested in trying to play in the Any% NMG (No Major Glitches) category. A lot of information in this guide can be used for other categories but the differences won't be explained here.
 
 > [!IMPORTANT]
-> When souls count or mana usage is mentioned, the guide assume that the game is in Advanced difficulty, anything that works in Advanced can also work in Standard.
+> When soul count or mana usage is mentioned, the guide assumes that the game is in Advanced difficulty. Anything that works in Advanced difficulty can also work in Standard.
 
-I highly recommend checking you the movements and combats videos that I made that complement this guide with useful general knowledge, meanwhile this guide focuses more on the route and the content of the run itself.
+I highly recommend checking out the movements and combats videos that I made that complement this guide with useful general knowledge. This guide focuses more on the route and the content of the run itself.
 
 - [Movements Guide](https://www.youtube.com/watch?v=3ewwr3Cm8EU)
 - [Combat Guide](https://www.youtube.com/watch?v=s0hwn3UjVCI)
 
-I would also recommend to check the runs on *[speedrun.com](https://www.speedrun.com/little_witch_nobeta)* and to compare them even if they don't necessarily contain the latest techs and routes, sometimes it's easier to understand something with a video example.  
-I have also done a complete *[Any% NMG WR Analysis](https://www.youtube.com/watch?v=hlDkyTH6TiM)* that explains everything that is right and wrong with the WR in this category *(as of the writing of this guide)*. I will often refer to this video since it is timestamped and provide examples for most of the latest discoveries.
+I would also recommend checking out the runs on *[speedrun.com](https://www.speedrun.com/little_witch_nobeta)* even if they don't necessarily contain the latest techs and routes, they can still be used as a reference.  
+I have also done a complete *[Any% NMG WR Analysis](https://www.youtube.com/watch?v=hlDkyTH6TiM)* that explains everything that is right and wrong with the WR in this category *(as of the writing of this guide, it changed since)*. I will often refer to this video since it is timestamped and provides examples for most of the latest discoveries.
 
 > [!NOTE]
 >
-> You can click on any segment title to open the world record run for this section. There are some mistakes made in this run but it helps getting the general idea of a segment.
+> You can click on any segment title to open the former world record run for this section. There are some mistakes made in this run but it helps with getting the general idea of a segment. It is also not the latest WR for this category but it serves as a solid base run with harder routes added on top of it.
 
 > You can find me on the [Little Witch Nobeta Speedruns discord](https://discord.gg/3FMeB4m) if you have any question
 
@@ -80,12 +80,16 @@ This guide is written assuming that you are playing with game version `1.1.0`. Y
 
 ## Settings and controls
 
-First and foremost, deciding on good settings and controls is a good thing to do. For the settings, I recommend to use **Toggle** for **Dash Type** and to set the **Camera Shake** to **0**. Make sure to also set **Attack Pause** to **OFF** as this settings can make you lose a considerable amount of time if enabled (up to multiple seconds!) because the game will pause for a brief delay for each attack. Also, there is no known differences between any language in this game so use the one you prefer. For the camera settings it's up to your preferences, you can find mine below.
+First and foremost, deciding on good settings and controls is a good thing to do. For the settings, I recommend to use **Toggle** for **Dash Type** and to set the **Camera Shake** to **0**. Make sure to also set **Attack Pause** to **OFF** as this settings can make you lose a considerable amount of time if enabled (up to multiple seconds!) because the game will pause for a brief delay for each attack. Also, there are no known differences between any language in this game, so use the one you prefer. For the camera settings, it's up to your preferences. You can find mine below.
 
-Choosing good controls may help you a lot, especially if you're not using a controller. In the few things that I changed there is:
-- Magic select using the number row (1, 2, 3, 4) and items using the function key row (F1, F2, ...). This allows me to swap magic type way faster and makes doing quick-swapping a breeze at the cost of having a harder time to use items using the shortcuts (that's why you'll see me using the scroll wheel most of the time for items)
-- Also map **Tab** to Thunder magic (because yes I use Thunder a lot and '4' is a bit far for my left hand)
-- Map **Caps Lock** to the Pause Menu, same reason, the Esc key is a bit far so I get less stress on my hand
+![Camera settings](Resources/Settings_Camera.webp)
+
+> Camera settings that I use to run this game.
+
+Choosing good controls may help you a lot, especially if you're not using a controller. Here are a few things I changed:
+- Magic select using the number row (1, 2, 3, 4) and items using the function key row (F1, F2, ...). This allows me to swap magic types way faster and makes quick-swapping a breeze at the cost of having a harder time using items with the shortcuts (that's why you'll see me using the scroll wheel most of the time for items)
+- Mapped **Thunder magic** to **Tab** (I use Thunder a lot and '4' is a bit far for my left hand)
+- Mapped **Pause Menu** to **Caps Lock** (Similar reason. The Esc key is a bit far for my left hand)
 
 ### Cursor Indicator/Crosshair
 
@@ -95,46 +99,46 @@ It is really easy to setup a cursor indicator and I would recommend anyone that 
 
 ## Souls, enemies, stats, ...
 
-Before starting to talk about the run in itself, I wanted to talk a bit about all the economy around souls, enemies, and stats. In this game, you can get souls by killing enemies to upgrade your stats or get crystals at each statue. Killing as many enemies as possible, even if it makes you lose time at first, was considered a good strategy and worth in the end (to kill bosses faster thanks to having more upgrades in Intelligence for example). I myself am not an advocate of this strategy and would say you should only kill the enemies that you can kill without losing any time or only a small amount of time. For example, killing enemies while you are running or when you are recovering your stamina is perfectly fine but I would never go back or stop completely to kill an enemy. In addition, it is not an issue to miss a few enemies, the souls requirement are quite flexible, even more so if you know how to adjust your damage and compensate in case you have lower Intelligence level than usual.
+Before starting to talk about the run in itself, I wanted to talk a bit about all the economy around souls, enemies, and stats. In this game, you can get souls by killing enemies to upgrade your stats or get crystals at each statue. Killing as many enemies as possible, even if it makes you lose time at first, was considered a good strategy and worth in the end (to kill bosses faster thanks to having more upgrades in Intelligence for example). I myself am not an advocate of this strategy and would say you should only kill the enemies that you can kill without losing any time or only a small amount of time. For example, killing enemies while you are running or when you are recovering your stamina is perfectly fine, but I would never go back or stop completely to kill an enemy. In addition, it is not an issue to miss a few enemies. The soul requirements are quite flexible, even more so if you know how to adjust your damage and compensate in case you have lower Intelligence level than usual.
 
-Of course, I'm not saying that getting a lot of souls isn't important, especially in the first levels. But it is a fact that upgrading Intelligence has a diminishing return since the amount of souls required to upgrade it scales way faster than the number of souls you get from enemies. It is still something that needs a lot of investigation and testing, you may want to adjust you own route to get more or less souls, it's maybe even worth to skip a few upgrades at statues, especially at the end.
+Of course, I'm not saying that getting a lot of souls isn't important, especially in the early levels. But, it is a fact that upgrading Intelligence has a diminishing return since the amount of souls required to upgrade it scales way faster than the number of souls you get from enemies. It is still something that needs a lot of investigation and testing. You may want to adjust you own route to get more or less souls. It might be worth it to skip a few upgrades at statues, especially toward the end.
 
 That's enough introduction talk, I'm sure you just want to play and speedrun at this point, so let's get to it!
 
 ## Okun Shrine
 
-Okun Shrine is the first level of the game, it is a short but contains a lot of possible micro-optimizations.
+Okun Shrine is the first level of the game. It is short, but contains a lot of possible micro-optimizations.
 
 This level starts when you confirm the difficulty setting on the new game screen. You will have two cutscenes to skip in a row which will help you to train your cutscene skip timing. A good time is having a sub 2 seconds timer after the first cutscene.
 
 > _A few notes on skipping cutscenes_
 >
-> When using keyboard + mouse, you have the choice to either click on the confirm skip button by using the mouse or using the keyboard. Both methods are good and it will really depends on your own feeling and on the situation you are in. For cutscenes after a long loading screen or transition I prefer to use the keyboard, for others I use the mouse.
+> When using keyboard + mouse, you have the choice to either click on the confirm skip button by using the mouse or using the keyboard. Both methods are good and it will really depends on your own feeling and on the situation you are in. For cutscenes after a long loading screen or transition, I prefer to use the keyboard. For others, I use the mouse.
 >
-> Be careful of trying to open the skip cutscene menu too fast! It is possible to get in a "softlock" state by opening the menu just after a cutscene starts. Seeing the normal pause menu open instead of the cutscene skip menu is an indicator that you reached this softlock state. The only way to get out easily is to die, which is not necessarily possible in all situations and may make you lose a lot of time. The only way to avoid this is to wait a bit before trying to skip cutscenes. _(Note that some cutscenes can never lead to a softlock, for examples those that are triggered after X seconds like cutscenes after killing a boss)_
+> Be careful of trying to open the skip cutscene menu too fast! It is possible to get in a "softlock" state by opening the menu just after a cutscene starts. Seeing the normal pause menu open instead of the cutscene skip menu is an indicator that you reached this softlock state. The only way to get out easily is to die, which is not necessarily possible in all situations and may make you lose a lot of time. The only way to avoid this is to wait a bit before trying to skip cutscenes. _(Note that some cutscenes can never lead to a softlock. For examples those that are triggered after X seconds like cutscenes after killing a boss)_
 
 ### [First Barrier](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=0)
 
 After the two cutscenes, the objective is to reach the first barrier while optimizing your stamina usage (you can refer to [this part of the Movements Guide video](https://www.youtube.com/watch?v=3ewwr3Cm8EU&t=557s) for tips on stamina management).
 
-Firstly, past the statue by going either a bit right or left of it depending on your preferences and then turn right. You want to do as many aerial attacks as possible by jumping off the stairs to save stamina.  
-One enemy will launch a projectiles at you, either shoot at him to cancel/kill him or dodge by moving a bit to the left. Then continue past him without stopping until you reach the "lightning trap trigger" _(c.f. image below)_. You should be able to reach this point without having to recover stamina once.
+Firstly, go past the statue by going either a bit right or left of it depending on your preferences and then turn right. You want to do as many aerial attacks as possible while jumping off the stairs to save stamina.  
+One enemy will launch a projectile at you. Either shoot at him to cancel/kill him or dodge by moving a bit to the left. Continue past him without stopping until you reach the "lightning trap trigger" _(c.f. image below)_. You should be able to reach this point without having to recover stamina once.
 
 ![alt text](Resources/Shrine_Lightning_Trap.webp)
 
 > Collider to trigger the lightning trap, marked by the inner blue collider and the red line
 
-Once you reach this point, you can stop running to recover some stamina but continue moving forward by entering the next corridor. You won't get hit by the lightning traps if you're not running (which you can't do anyway since you need to regenerate stamina). Start running again when you get close to 75% stamina, you can wait for a bit more if it feels easier to you.
+Once you reach this point, you can stop running to recover some stamina. Continue moving forward aas you enter the next corridor. You won't get hit by the lightning traps if you're not running (which you can't do anyway since you need to regenerate stamina). Start running again when you get close to 75% stamina. You can wait a bit longer if it's easier for you.
 
-Go to the right at end of the corridor, do the two jumps on the platforms and reach the crystal that maintains the magic barrier. The easiest way to destroy this crystal is to jump, do two aerial melee attacks, do an arcane shot and then do a triple melee attacks on the ground followed by another single shot.
+Go to the right at end of the corridor, do the two jumps on the platforms and reach the crystal that maintains the magic barrier. The easiest way to destroy this crystal is to jump, do two aerial melee attacks, do an Arcane shot and then do a triple melee attacks combo on the ground followed by another single Arcane shot.
 
 > [!NOTE]
 >
-> It is required to kill at least two enemies if going for the Arcane 2 skip route to have enough mana for upgrades later on at Tania. I prefer to kill the one downstairs before the lightning trap and the one on the two platforms before the crystal. Of course you can adapt to your preferences, just don't forget that kill the enemies near the crystal has no use because they will die during when destroying the crystal in any case!
+> It is required to kill at least two enemies if going for the Arcane 2 skip route to have enough souls for upgrades later on at Tania. I prefer to kill the one downstairs before the lightning trap and the one on the two platforms before the crystal. Of course, you can adapt to your preferences, just don't forget that killing the enemies near the crystal has no use because they will die when destroying the crystal!
 
 ### [Rescue Cat](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=61)
 
-Skip the cutscene after destroying the crystal. Now it is best to get the bag extension upgrade otherwise you won't be able to do a few things later on. To get this upgrade, jump on the crystal pedestal, jump on the stone fence, then jump extension toward the chest directly. Otherwise you find it hard to perform (which it is), you can go back down the stairs and reach the platform using a simple jump extension (double aerial attack after a single jump).
+Skip the cutscene after destroying the crystal. Now it is best to get the bag extension upgrade otherwise you won't be able to do a few things later on. To get this upgrade, jump on the crystal pedestal, jump on the stone fence, then jump extension toward the chest directly. If you find it hard to perform (which it is), you can go down the stairs and reach the platform using a simple jump extension (double aerial attack after a single jump).
 
 > _Notes on jumping on crystal pedestals_
 >
@@ -142,48 +146,54 @@ Skip the cutscene after destroying the crystal. Now it is best to get the bag ex
 >
 > Remember this since it will be used again later in the run.
 
-To open the chest, the fastest way is to open if using the aerial attack that you used to reach this platform. This advanced technique is quite hard to do and not recommended at first. The other standard way is to open the chest using a normal melee attack on the ground and to cancel its animation by shooting a single arcane projectile. This is faster than waiting for the melee animation to end.
+To open the chest, the fastest way is to open it using the aerial attack that you used to reach this platform. This advanced technique is quite hard to do and not recommended at first. The other standard way is to open the chest using a normal melee attack on the ground and to cancel its animation by shooting a single arcane projectile. This is faster than waiting for the melee animation to end.
 
 > [!TIP]
 >
 > There is an even faster and more efficient way to do this that is also a bit harder to perform. You can [see a clip of it here](https://youtu.be/_PELkRQUx9U) _(Thanks to Muki for finding and sharing this)_.
 
-After collecting the bad expansion, do not jump over the platform, this will waste stamina, instead let yourself fall down. Try to damage the enemy that shoots projectile down below while going down and deal the remaining required damage after touching the ground. Ideally you would regenerate some stamina while doing so to not waste time.
+After collecting the bag expansion, do not jump over the platform. This will waste stamina. Instead, let yourself fall down. Try to damage the enemy that shoots projectiles down below while going down and deal the remaining damage after landing. Ideally, you would regenerate some stamina while doing so as to not waste time.
 
 Go toward the next statue while paying attention to one enemy that can shoot at you, either strafe on a side to dodge (you can use the sound cue to know when to sidestep) or shoot at him to cancel his attack. Go left to go downstairs and run till you reach the big blue mana crystal.
 
-Hit at least once the mana crystal using an aerial melee attack and trigger the cutscene. Skip the cutscene.  
+HHit the mana crystal at least once using an aerial melee attack and trigger the cutscene. Skip the cutscene.  
 Start charging Arcane and wait to recover a bit of stamina. Once your stamina bar stops blinking red, jump to do two aerial melee attacks on the mana crystal. Jump again to do two more melee attacks. Shoot the charged Arcane when the barrier crystal is about to spawn and land on the ground to charge another Arcane. You then need to jump to do two more aerial melee attacks on the crystal but you need to wait for your arcane magic to be charged before that, otherwise the mana orbs won't spawn. Shoot the charged Arcane while still in the air and then run directly towards the next corridor after the two melee attacks. Shoot the last charged Arcane whenever it is ready. Skip the cutscene.
 
 > [Video example](https://www.youtube.com/watch?v=9vCcmfOvgX8&t=96s)
 
-Run towards the next cutscene, the colliders for cutscenes are rectangle so run in a straight line, no need to reposition in the middle of the corridor. Skip the cutscene.
+Run towards the next cutscene. The colliders for cutscenes are rectangles, so run in a straight line. There is no need to reposition yourself to the middle of the corridor. Skip the cutscene.
 
-This part can be quite tricky and the placement of the enemies is chosen randomly from a few predetermined patterns so sometimes things don't go well. The gist of this fight is to get the aggro of the two enemies that are attacking the cat, kill the two enemies on the right using headshots, break the jars that contain mana orbs and then finish all the others using a charged Arcane. Using a cursor indicator at the center of your screen will help greatly for this part, see [Cursor Indicator](#cursor-indicatorcrosshair) for more information.
+This part can be quite tricky and the placement of the enemies is chosen randomly from a few predetermined patterns, so sometimes things don't go well. The gist of this fight is to get the aggro of the two enemies that are attacking the cat, kill the two enemies on the right using headshots, break the jars that contain mana orbs and then finish all the others using a charged Arcane. Using a cursor indicator at the center of your screen will help greatly for this part. See [Cursor Indicator](#cursor-indicatorcrosshair) for more information.
 
 > [Video example](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=111)
 
 ### [Armor Start](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=133)
 
-This is the last platforming part of Okun Shrine, leading to the first boss of the game. After the cat rescue cutscene, head upstairs while killing the enemy there (two headshots is enough to kill him). Then jump on the stone fence on the left and jump left around the pillar. If you correctly disable the running state while jumping around the pillar, Nobeta will do a "quick recovery" which allows you to start regenerating stamina way faster than usual when touching the ground. Wait to have around 50% stamina (wait for more if you struggle getting to the Armor without tripping) stamina to start running again.
+This is the last platforming part of Okun Shrine, which leads to the first boss of the game. After the cat rescue cutscene, head upstairs while killing the enemy there (two headshots is enough to kill him). Jump on the stone fence on the left and then jump left around the pillar. If you correctly disable the running state while jumping around the pillar, Nobeta will do a "quick stamina recovery", which allows you to start regenerating stamina way faster than usual when touching the ground. Wait to have around 50% stamina (wait for more if you struggle getting to the Armor without tripping) to start running again.
 
 ![Stone fence](Resources/Shrine_Cat_Stone_Fence.webp)
 
 > Stone fence on the left which you can run on top
 
-Run towards the big enemy with arms and then go to the right. Jump on the stone fence in front of you to go directly towards the last statue without taking the stairs. A good indicator to know where to jump to get over the fence is to jump just before the "lighter stone" on the ground, the one that has a touch of white. Use a jump extension after jumping over the barrier to save your stamina and go around the statue down the stairs. End with another jump extension down the stairs to reach the cutscene trigger, bonus point if you manage to use the trip animation to trigger the cutscene since Nobeta's velocity during the trip animation is higher than when running.
+Run towards the big enemy with arms and then go to the right. Jump on the stone fence in front of you to go directly towards the last statue without taking the stairs. A good indicator to know where to jump to get over the fence is to jump just before the "lighter stone" on the ground (the one that has a touch of white).
+
+![Light Stone](Resources/Shrine_Light_Stone_Line.webp)
+
+> Indication line just before the light stone that represents the point at which it is recommended to jump to reach the fence properly.
+
+Use jump extensions after jumping over the fence to save your stamina and go around the statue below. End with another jump extension down the stairs to reach the cutscene trigger, bonus point if you manage to use the trip animation to trigger the cutscene since Nobeta's velocity during the trip animation is higher than when running.
 
 ### [Armor](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=171)
 
-This is by far the easiest boss in the game but the randomness of the fight may make you lose a bit of time and you can't really do anything about it. This boss has a weakpoint that you will need to aim at: the base of his body (the purple flame). It is also easy to stagger this boss using Arcane shots so that's a reliable way to kill him easily without any specific strategy.
+This is by far the easiest boss in the game, but the randomness of the fight may make you lose a bit of time and you can't really do anything about it. This boss has a weakpoint that you will need to aim at: the base of his body (the purple flame). It is also easy to stagger this boss using charged Arcane shots, so that's a reliable way to kill him easily without any specific strategy.
 
 The fastest strategy is:
 1. Shoot the left jar on the left wall and charge Arcane. Pray for Armor to do an attack that will allow you to easily hit his weakpoint (best one is the charged slash).
 2. Shoot the charged Arcane at his weakpoint and immediately destroy the left jar on the right wall.
 3. Profit from the fact that he's staggered to shoot a few non-charged Arcane shots at his weakpoint (6 shots is ideal).
 4. Start charging immediately and do a triple melee attack combo
-5. Shoot the charged Arcane whenever possible while aiming at the jar behind the boss on the left (the charged Arcane projectile will go through the boss and break the jar if aimed correctly)
-6. Shoot twice with non-charged Arcane shots (you can sometimes shoot a third time here but if you're too slow the boss will enter in a defensive state which you don't want to happen)
+5. Shoot the charged Arcane whenever possible while aiming at the jar behind the boss on the right (the charged Arcane projectile will go through the boss and break the jar if aimed correctly)
+6. Shoot twice with non-charged Arcane shots (you can sometimes shoot a third time here but, if you're too slow, the boss will enter in a defensive state which you don't want to happen)
 7. Start charging Arcane and do three melee attacks
 8. Shoot the last charged Arcane as soon as possible
 9. Finish the boss using non-charged Arcane magic if he's low, otherwise charge another Arcane
@@ -191,24 +201,28 @@ The fastest strategy is:
 > [!NOTE]
 > For this strategy to work, you need to hit the correct jars since for each group of jar, one of them gives more mana than the other. Always break the one with the most mana (or even both).
 >
-> For some reason the Armor sometimes waits 2-3 seconds before starting any attack pattern, that's why the linked split is +3.1 sec from best split although it is nearly perfect.
+> For some reason the Armor sometimes waits 2-3 seconds before starting any attack pattern, that's why the linked split is +3.1 sec from best split, although it is nearly perfect.
 
 Congratulations, you already completed one of the six levels of the game!
 
 ## Underground Cave
 
-This is the second level of the game, the objective in this level is to get the Wind, *Arcane (can be skipped)* and Ice magic books before proceeding to the boss. There is still no fast way to kill enemies and they don't give a lot of souls so killing them is not a priority.
+This is the second level of the game. The objective in this level is to get the Wind, *Arcane (can be skipped)* and Ice magic books before proceeding to the boss. There is still no fast way to kill enemies and they don't give a lot of souls, so killing them is not a priority.
 
 > [!IMPORTANT]
 >
-> The route in Underground Cave and Lava Ruins are a bit different if you go for the Arcane 2 skip. It saves a lot of time in total but it is also way harder than the regular route. I will write the original route and add similar notes whenever something should be made different for Arcane 2 skip route.
+> The route in Underground Cave and Lava Ruins are a bit different if you go for the Arcane 2 skip. It saves a lot of time in total, but it is also way harder than the regular route. I will write the original route and add notes whenever something is for the Arcane 2 skip route.
 
 ### [Ice Magic](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=212)
 
-This level starts with a cutscene just after the loading screen, skip it. Turn around after skipping the cutscene and head to the chest containing Wind magic, open it and pick up the book. Same as for the first chest, you can either use an aerial attack or a cancelled melee attack on the ground to open the chest, use the one you're most used to, the timesave is negligible.  
-Since we run in **Load Removed Time**, the timer pauses during loading screens. This is why the best thing to do after getting Wind magic is to open the pause menu and Return to Statue (you can open the menu the exact moment you see the message appear on the top right corner of the screen when picking the magic book). This way you will be back to the start of the level directly instead of having to run back.
+This level starts with a cutscene just after the loading screen. Skip it. Turn around after skipping the cutscene and head to the chest containing Wind magic. Open it and pick up the book. Same as the first chest, you can either use an aerial attack or a cancelled melee attack on the ground to open the chest. Use the one you're most used to. The timesave is negligible.  
+Since we run in **Load Removed Time**, the timer pauses during loading screens. This is why the best thing to do after getting Wind magic is to open the pause menu and Return to Statue (you can open the menu the exact moment you see the message appear on the top right corner of the screen when picking up the magic book). This way you will be back to the start of the level directly instead of having to run back.
 
-After the loading screen, start running directly without waiting for the screen to fade out (yes, it is possible to move while the black fade out animation is still going, try to "feel" the right moment to start running, it's possible to do that after most of the loading screens). Double jump over the obstacle and then follow the path. Do not talk to the cat as of now, we'll pick up the absorption magic book later in the level. Continue on the left until you reach a wider cave. Instead of going right, jump over the stone pillars on the left _(c.f. image below)_ and run until you are next to the falling rocks. Do not go too far or else you will be damaged by the falling rocks and fall back. Destroy newly appeared wall by shooting Arcane magic at it, wait a bit to recover some stamina _(~80%)_, then go up the stairs. Once up the stairs, pass by the big enemy and jump over the small pit, then follow the path until the next big cave.
+After the loading screen, start running directly without waiting for the screen to fade out (yes, it is possible to move while the black fade out animation is still going, try to "feel" the right moment to start running, it's possible to do that after most of the loading screens). Double jump over the obstacle and then follow the path. Do not talk to the cat as of now. We'll pick up the absorption magic book later in the level. Continue on the left until you reach a wider cave. Instead of going right, jump over the stone pillars on the left _(c.f. image below)_ and run until you are next to the falling rocks. Do not go too far or else you will be damaged by the falling rocks and fall back. Destroy the newly appeared wall by shooting Arcane magic at it, wait a bit to recover some stamina _(~80%)_, and then go up the stairs. Once up the stairs, pass by the big enemy and jump over the small pit, then follow the path until the next big cave.
+
+> [!TIP]
+>
+> It is possible to "buffer" the sprint state after cutscenes and level loadings by holding the sprint key event when playing with the "toggle" sprint mode. If doing that and using toggle mode, the best is to release it during a jump because it will otherwise slows down Nobeta.
 
 ![Path to falling rocks](Resources/Underground_Falling_Rocks.webp)
 
@@ -218,64 +232,64 @@ After the loading screen, start running directly without waiting for the screen 
 >
 > Muki found a faster way than going up the stairs after destroying the rock wall by climbing on the right side. You can find [a video of it there](https://youtu.be/SBDBd1IsGO8?si=J0l9-lDZYw4Zh_OO&t=252)
 
-Just after the last wooden platform, go to the left and do a double jump extension `jump > double aerial melee attack > jump > double aerial melee attack > stop sprint` to reach the chest for Arcane magic. If you are low on stamina at the wooden platform, stop running and wait to recover a bit to avoid falling down before the jump (would be quite unfortunate). Destroy the two dolls to get a few souls, open the chest, pick up the Arcane magic book and either go around left or right while recovering stamina _(~80%)_. This part can be quite tricky and going left or right is equivalent in difficulty. The goal is to fall down and pick up the Ice magic book in the chest, but, there are a lot of enemies that can hit you while you're picking the book, cancelling the pickup animation. The two enemies on the ledge above can shoot projectiles at you and are the most likely to cancel you. They will first lock onto you when you are falling down and then wait a bit before shooting. This means that there are two possibilities, either pickup the book before they shoot at you, or wait, dodge both projectiles and then pickup the book. Find you own timing by training it multiple times and stick with it, consistency is key for this segment.
+Just after the last wooden platform, go to the left and do a double jump extension `jump > double aerial melee attack > jump > double aerial melee attack > stop sprint` to reach the chest for Arcane magic. If you are low on stamina at the wooden platform, stop running and wait to recover a bit to avoid falling down before the jump (would be quite unfortunate). Destroy the two dolls to get a few souls, open the chest, pick up the Arcane magic book and either go around left or right while recovering stamina _(~80%)_. This part can be quite tricky and going left or right is equivalent in difficulty. The goal is to fall down and pick up the Ice magic book in the chest, but, there are a lot of enemies that can hit you while you're picking the book, cancelling the pickup animation. The two enemies on the ledge above can shoot projectiles at you and are the more likely to cancel you. They will first lock onto you when you are falling down and then wait a bit before shooting. This means that there are two possibilities: either pickup the book before they shoot at you, or wait, dodge both projectiles and then pickup the book. Find your own timing by training it multiple times and stick with it. Consistency is key for this segment.
 
 > [!IMPORTANT]
 >
 > **Arcane 2 skip:** If you are going for the Arcane 2 skip route, you can jump down directly to the Ice magic chest but make sure to break the doll near the Arcane magic chest to get some souls for upgrades later. A video shows it better than any word could: [check the example there](https://youtu.be/SBDBd1IsGO8?si=0aaAhSxo4b3MvysY&t=259).  
-> One downside of this route is that it is not easy at all to reach Ice magic using this route without getting hit by the enemies. A lot of different paths work, the one I use may not be easy to do if you don't have high camera sensibility to do the 180 and forget to redirect while in the air. Try to find one that works best for you.
+> One downside of this route is that it is not easy at all to reach Ice magic using this route without getting hit by the enemies. A lot of different paths work. The one I use may not be easy to do if you don't have high camera sensibility to do the 180 and forget to redirect while in the air. Try to find one that works best for you.
 
 ### [Tania Start](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=283)
 
-Once you have Ice magic, turn around and follow the path on the right then follow the path that goes up. Ignore the enemies on the way. Remember to equip Ice magic at some point before reaching the top of the path. When reaching the top, check if you still have enough stamina and do another double jump extension on the left to reach the next two enemies. Kill them using headshots with Ice magic while walking to recover your stamina. After killing them and with enough stamina _(~50%)_, follow the path until the blue light on the right _(c.f. image below)_, at which point you need to stop running and to charge Ice magic.
+Once you have Ice magic, turn around and follow the path on the right then follow the path that goes up. Ignore the enemies on the way. Remember to equip Ice magic at some point before reaching the top of the path. When reaching the top, check if you still have enough stamina and do another double jump extension on the left to reach the next two enemies. Kill them with headshots with Ice magic while walking to recover your stamina. After killing them and with enough stamina _(~50%)_, follow the path until the blue light on the right _(c.f. image below)_, at which point you need to stop running to charge Ice magic.
 
 ![Underground blue light indicator](Resources/Underground_Blue_Light.webp)
 
 > Blue light that indicates the point at which Ice needs to be charged
 
-You can start running again when you reach around 50% stamina, lock onto the two stone crystals on the right and on the left while still running towards the barrier. Reach the stairs, cast your charged Ice magic _(this will disable the running state)_ when you're on the stairs, start running again and shoot at the third stone crystal directly using non-charged Ice attacks _(you can hold the shoot button)_. Try to end up where the absorption book will spawn _(c.f. image below)_ before the cutscene starts.
+You can start running again when you reach around 50% stamina. Lock onto the two stone crystals on the right and on the left while still running towards the barrier. As you reach the stairs, cast your charged Ice magic _(this will disable the running state)_. Start running again and shoot at the third stone crystal directly using non-charged Ice attacks _(you can hold the shoot button)_. Try to end up where the absorption book will spawn _(c.f. image below)_ before the cutscene starts.
 
 ![Absorption book spawn point](Resources/Underground_Absorption.webp)
 
 > Absorption book spawn position
 
-Skip the cutscene. After the cutscene, wait for the cat to move _(to avoid talking to him)_, pick up the book and dodge directly towards the stairs to avoid a potential attack, start charing Ice magic. Continue running up the stairs towards the statue while ice magic is charging, Pray to the statue once you reach it and Ice magic is charged. It is a requirement to charge Ice magic here to gain a shield that will avoid you getting cancelled by the enemies while trying to Pray to the statue. Go into the Enhance Abilities menu and upgrade Intelligence to level 6. Use the pause menu button to directly leave the statue without having to press Return twice.
+Skip the cutscene. After the cutscene, wait for the cat to move before trying to pick up the book (to avoid talking to him). Dodge toward the stairs to avoid a potential attack and then start charging Ice magic. Continue running up the stairs towards the statue while Ice magic is charging. Pray to the statue once you reach it and Ice magic is charged. It is required to charge Ice magic here as it prevents you from being staggered/knocked down while praying to the statue. Go into the Enhance Abilities menu and upgrade Intelligence to level 6. Use the pause menu button to directly leave the statue without having to press Return twice.
 
 ![Stats at end of Underground](Resources/Underground_Stats.webp)
 
 > Stats before leaving the statue
 
-Jump directly over the fence in front, then take either left or right at the circular corridor. Stick to the inner wall to optimize your trajectory. Trigger the cutscene, skip it. Run backward (or turn around), jump and hit the mana crystal twice, jump again and hit it only once. Start charging Ice magic while walking towards the flames, start running again when reaching max stamina. Try to save as much stamina as possible while going up the stairs. Break the crystal by using a triple melee attack combo on the ground. Skip the cutscene.
+Jump directly over the fence in front, then take either left or right at the circular corridor. Stick to the inner wall to optimize your trajectory. Trigger the cutscene. Skip it. Run backward (or turn around), jump and hit the mana crystal twice, jump again and hit it only once. Start charging Ice magic while walking towards the flames. Start running again when reaching max stamina. Try to save as much stamina as possible while going up the stairs. Break the stone crystal by using a triple melee attack combo on the ground. Skip the cutscene.
 
 > [!TIP]
 >
 > A small time save was found in this room to climb to the crystal by jumping through the room instead of going up the stairs. It saves a few seconds but will require you to manage your stamina more precisely to do the barrier skip just after. [Here is a video example of it](https://youtu.be/SBDBd1IsGO8?si=agBtubcKGP29YApC&t=339)
 
-Wait to reach around 80% stamina, jump on the pedestal and double jump then extension to reach the platform in front. Continue in a straight line until the stairs. Here you have two choices: either kill the enemies downstairs to disable the magic barrier or try the barrier skip. I will only explain the barrier skip here.  
+Wait to reach around 80% stamina, then jump on the pedestal, double jump, and use a jump extension to reach the platform in front. Continue in a straight line until the stairs. Here you have two choices: either kill the enemies downstairs to disable the magic barrier or try the barrier skip. I will only explain the barrier skip here.  
 For the barrier skip, you will need to jump onto the arches on the sides (left or right, there's no difference). What I like to do is jump directly over the corner stone support half down the stairs and then jump onto the right arch. Then I double jump of the arch followed by the two aerial attacks directly, all this while moving a bit on the left without moving the camera.
 
 > [Video example](https://www.youtube.com/watch?v=yjl-kI6HbXw&t=449s)
 
-This skip is a question of feeling, try out different things and stick to the one that is the easiest for you, no method is better than the other.
+This skip is a question of feeling. Try out different things and stick to the one that is the easiest for you. No method is better than the other.
 
 After skipping the cutscene, head to Tania by going in a straight line in front of you (you can jump on the fence) and then on the right, ideally taking this chance to kill the enemy on the ground. Jump down and trigger the cutscene to start the fight against Tania.
 
 ### [Tania](https://www.youtube.com/watch?v=CHPPDXbgu5s&t=421)
 
-This boss fight is heavily rigged by RNG, depending on which pattern she does, you may lose up to 20 seconds.
+This boss fight is heavily rigged by RNG. Depending on which pattern she does, you may lose up to 20 seconds.
 
-The goal of this fight is just to do as much damage as possible by using charged Ice attacks. For this, you will need to learn how to parry most of her attacks, or at least to dodge them. There are also a few jars on the right wall that contains some mana orbs, you can destroy them when Tania isn't attacking and you are low on mana. Most patterns will give you a fully charged Ice attack directly if you parry them, meanwhile two of them can give you two charged Ice attacks.
+The goal of this fight is just to do as much damage as possible by using charged Ice attacks. For this, you will need to learn how to parry most of her attacks, or at least to dodge them. There are also a few jars on the right wall that contains some mana orbs. You can destroy them when Tania isn't attacking and you are low on mana. Most patterns will give you a fully charged Ice attack directly if you parry them meanwhile two of them can give you two charged Ice attacks.
 
-The first of these two patterns is the one where Tania gives three punches and then slams on the ground, parry the first or second punch to charge one attack, and then parry the slam on the ground to get a second charged Ice attack. The second pattern that can give two charged Ice attacks is the one she uses when entering her second phase, she will first charge an attack that will hit in a big aoe around her, which you can parry to get one charged attack, and then three blue projectiles will spawn. Countering or destroying these orbs using non-charged ice magic will give enough mana to charged another Ice attack. As for the laser attack, I prefer to just dodge in the direction of the laser instead of trying to counter it, if done correctly it gives a fully charged Ice attack without having to counter.
+The first of these two patterns is the one where Tania throws three punches and then slams on the ground. Parry the first or second punch to charge one attack, and then parry the slam on the ground to get a second charged Ice attack. The second pattern that can give two charged Ice attacks is the one she uses when entering her second phase. She will first charge an attack that will hit in a big aoe around her, which you can parry to get one charged attack, and then three blue projectiles will spawn. Countering or destroying these orbs using non-charged Ice magic will give enough mana to charge another Ice attack. As for the laser attack, I prefer to just dodge in the direction of the laser instead of trying to counter it. If done correctly, it gives a fully charged Ice attack without having to counter.
 
-Always try to hit Tania with non-charged Ice magic between her attacks, especially if your mana bar is full, not used mana is wasted mana. You don't necessarily have to aim at her head hitbox since it is really small, it's better to hit all of your projectiles in her body than miss a few of them trying to aim at her head. In fact, the damage multiplier for headshots is too small to be worth the required accuracy.
+Always try to hit Tania with non-charged Ice magic between her attacks, especially if your mana bar is full. Unused mana is wasted mana. You don't necessarily have to aim at her head hitbox since it is really small. It's better to hit all of your projectiles in her body than miss a few of them trying to aim at her head. In fact, the damage multiplier for headshots is too small to be worth the required accuracy.
 
 > _Notes on cancelling the counter animation_
 >
 > It is possible in this game to cancel the end of the counter animation to gain back control of Nobeta a bit faster. While this could be thought as something you should do every time, this is not the case! Especially for this fight. The reason for that is that cancelling the end of the counter animation will also cancel the mana regeneration effect. This means that you will recover less mana if you cancel the end of the counter animation.  
 > Mana being really scarce in this fight, it is worth to wait for the animation to end against Tania. Nonetheless, you will want to cancel the animation against Monica, and the best way to do this is to do a "backward dodge", meaning that you have to dodge without pressing any direction input. This way the dodge animation will be faster (just a small back hop instead of a full roll).
 
-At the end of the fight, wait for the cutscene, skip it, and then run directly towards the door in a straight line as fast as possible, without letting the time for the souls to reach you. Note that you cannot interact with the door while running, this means that you will need to cancel the running state when reaching the door. You may ask why is so important to reach the door as fast as possible? This is because we're exploiting a bug in the game that makes all souls obtained during a loading screen count twice their value when playing in Advanced (no change in Standard as far as I know). If done correctly, you should have around 900 souls at the start of Lava Ruins. This souls duplication glitch is considered a major glitch and it is not allowed to do it on purpose in this category but since you can't really avoid doing the glitch in this room if you just run straight to the door, it is allowed for this specific part.
+At the end of the fight, wait for the cutscene, skip it, and then run directly towards the door in a straight line as fast as possible, without letting the time for the souls to reach you. Note that you cannot interact with the door while running. This means that you will need to cancel the running state when reaching the door. You may ask why it is so important to reach the door as fast as possible. This is because we're exploiting a bug in the game that makes all souls obtained during a loading screen count twice their value when playing in Advanced (no change in Standard as far as I know). If done correctly, you should have around 900 souls at the start of Lava Ruins. This souls duplication glitch is considered a major glitch and it is against the rules to do it on purpose in this category, but since you can't really avoid doing the glitch in this room if you just run straight to the door, it is allowed for this specific part.
 
 ## Lava Ruins
 
